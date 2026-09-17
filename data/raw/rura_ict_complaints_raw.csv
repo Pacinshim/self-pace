@@ -1,0 +1,931 @@
+complaint_id,date_received,province,district,operator,service_type,complaint_category,channel,description,customer_age,customer_gender,status,resolution_days,satisfaction_score
+RURA-ICT-00887,01-08-2024,Northern Province,Rulindo,AIRTEL,Fixed Voice,Slow Internet Speed,Social Media,,62,Female,closed,11,
+RURA-ICT-00075,2023-06-28,Southern Province,Muhanga,REG-ICT,Mobile Money,Billing Dispute,Walk-in,Received suspicious SMS asking for mobile money PIN.,19,Male,pending ,,
+RURA-ICT-00791,2024-11-16,Northern Province,Gakenke,liquid telecom,Mobile Voice,Service Activation Delay,Social Media,Billed for services not subscribed to.,,Male,resolved,2,
+RURA-ICT-00261,02-12-2024,Western Province,Nyamasheke,REG ICT,Fixed Internet,Slow Internet Speed,Web Portal,Received suspicious SMS asking for mobile money PIN.,73,Male,Closed,19,5
+RURA-ICT-00440,12/08/2023,Northern Province,Gakenke,Liquid Telecom,Fixed Internet,Data Bundle Deduction Issue,Email,Complainant charged twice for the same data bundle.,40,F,OPEN,,1
+RURA-ICT-00056,25-May-2024,Western Province,Karongi,Broadband Systems Corporation,Mobile Data/Internet,Customer Care Unresponsive,Email,,42,male,In Progress,29,
+RURA-ICT-00789,2024-04-29,Kigali City,Nyarugenge,MTN RWANDA,SMS,Service Activation Delay,Social Media,No network coverage since yesterday evening.,,M,Pending,,2
+RURA-ICT-00817,2024-02-17,Eastern Province,Bugesera,Broadband Systems Corporation,SMS,Billing Dispute,Web Portal,Received suspicious SMS asking for mobile money PIN.,26,Other,resolved,11,
+RURA-ICT-00600,2023-06-22,Northern Province,Musanze,REG-ICT,Fixed Voice,Billing Dispute,Social Media,Billed for services not subscribed to.,210,Male,resolved,3,3
+RURA-ICT-00204,01-Aug-2023,Kigali City,Gasabo ,BSC,Fixed Internet,Poor Network Quality,USSD,,49,F,Resolved,25,5
+RURA-ICT-00603,08/08/2024,Kigali City,Nyarugenge,AIRTEL,Fixed Internet,Service Activation Delay,Web Portal,Received suspicious SMS asking for mobile money PIN.,-5,Male,resolved,22,
+RURA-ICT-00764,30-Jun-2023,Kigali City,Kicukiro,BSC,Mobile Money,Mobile Money Transaction Failure,Web Portal,Complainant charged twice for the same data bundle.,30,female,resolved,22,
+RURA-ICT-00801,05-25-2023,Northern Province,Gakenke,Airtel,Fixed Voice,SIM Registration Issue,Call Center,Received suspicious SMS asking for mobile money PIN.,37,Other,open,,
+RURA-ICT-00133,07-Feb-2023,Western Province,Rusizi,,Fixed Voice,Network Outage,Walk-in,No network coverage since yesterday evening.,39,male,resolved,0,
+RURA-ICT-00225,17/07/2023,Western Province,Ngororero,REG-ICT,Mobile Voice,Unsolicited SMS/Spam,Walk-in,Mobile money transfer deducted but recipient did not receive funds.,,F,OPEN,,4
+RURA-ICT-00869,18/01/2023,Kigali City,Nyarugenge,AIRTEL,SMS,Mobile Money Transaction Failure,Walk-in,,61,Male,Closed,16,5
+RURA-ICT-00534,13/09/2023,Northern Province,Gicumbi,M.T.N Rwanda,Mobile Voice,Mobile Money Transaction Failure,Web Portal,Complainant charged twice for the same data bundle.,55,F,resolved,3,
+RURA-ICT-00718,2024-04-13,Eastern Province,Gatsibo,MTN RWANDA,Fixed Internet,Data Bundle Deduction Issue,Walk-in,Received suspicious SMS asking for mobile money PIN.,17,male,Open,,
+RURA-ICT-00822,2024-05-30,Eastern Province,Kirehe,Airtel Rwanda,SMS,Mobile Money Transaction Failure,Walk-in,Delay of over a week in activating new fixed internet line.,68,M,In Progress,7,
+RURA-ICT-00023,2024-01-09,Kigali City,Kicukiro,,Mobile Data/Internet,Data Bundle Deduction Issue,Walk-in,Received suspicious SMS asking for mobile money PIN.,42,Female,Open,,3
+RURA-ICT-00378,06-24-2023,Eastern Province,Kirehe,MTN Rwanda,Fixed Internet,Poor Network Quality,Email,Customer care line not answering after multiple attempts.,32,F,Pending,,1
+RURA-ICT-00457,22-Jan-2024,Western Province,Rutsiro,BSC,Mobile Voice,Unsolicited SMS/Spam,USSD,SIM card registered under wrong national ID.,28,Other,Open,,
+RURA-ICT-00595,04-16-2024,Northern Province,Gakenke,,Mobile Data/Internet,Poor Network Quality,Social Media,Received unsolicited promotional SMS despite opt-out request.,53,Female,Open,,4
+RURA-ICT-00847,01/04/2024,Western Province,Rutsiro,liquid telecom,Mobile Voice,Billing Dispute,Call Center,SIM card registered under wrong national ID.,75,Female,Resolved,10,
+RURA-ICT-00279,18-Apr-2024,Northern Province,Musanze,BSC,Mobile Money,Billing Dispute,Web Portal,Customer care line not answering after multiple attempts.,55,Other,Resolved,5,1
+RURA-ICT-00306,04-27-2024,Southern Province,Nyamagabe,REG ICT,Mobile Data/Internet,Customer Care Unresponsive,Email,Received suspicious SMS asking for mobile money PIN.,79,,Closed,22,3
+RURA-ICT-00116,07-18-2024,Southern Province,Kamonyi,liquid telecom,Mobile Money,Poor Network Quality,Email,Billed for services not subscribed to.,54,F,Closed,5,5
+RURA-ICT-00267,01-06-2023,Kigali City,Kicukiro,liquid telecom,Mobile Money,Billing Dispute,Walk-in,Received suspicious SMS asking for mobile money PIN.,35,M,In Progress,10,5
+RURA-ICT-00765,02/10/2023,Eastern Province,Bugesera,broadband systems,Fixed Internet,Service Activation Delay,Walk-in,Received suspicious SMS asking for mobile money PIN.,68,M,Open,,3
+RURA-ICT-00029,2024-02-20,Eastern Province,Gatsibo,broadband systems,Fixed Voice,Billing Dispute,USSD,Received suspicious SMS asking for mobile money PIN.,42,,In Progress,19,4
+RURA-ICT-00681,2023-07-24,Southern Province,Muhanga,Airtel Rwanda,Fixed Voice,Billing Dispute,Email,Customer care line not answering after multiple attempts.,53,Other,closed,15,4
+RURA-ICT-00191,2024-01-31,Western Province,Rutsiro,AIRTEL,Mobile Money,Service Activation Delay,Call Center,Customer care line not answering after multiple attempts.,25,M,Closed,29,6
+RURA-ICT-00126,2023-08-22,Eastern Province,nyagatare,M.T.N Rwanda,Fixed Internet,Mobile Money Fraud/Scam,Web Portal,Delay of over a week in activating new fixed internet line.,37,,In Progress,21,
+RURA-ICT-00414,18/01/2024,Eastern Province,Nyagatare,Broadband Systems Corporation,Mobile Data/Internet,Slow Internet Speed,Social Media,Internet speed far below advertised package.,40,female,OPEN,,2
+RURA-ICT-00080,2023-03-29,Eastern Province,Ngoma,Liquid Telecom,Mobile Data/Internet,Service Activation Delay,Social Media,Complainant charged twice for the same data bundle.,63,Male,open,,5
+RURA-ICT-00627,07-09-2023,Kigali City,GASABO,airtel rwanda,Fixed Internet,Mobile Money Fraud/Scam,USSD,Internet speed far below advertised package.,62,female,open,,0
+RURA-ICT-00506,10-08-2024,Eastern Province,Rwamagana,Broadband Systems Corporation,Fixed Voice,Service Activation Delay,Walk-in,Customer reports repeated call drops in Rwamagana.,54,female,In Progress,0,5
+RURA-ICT-00881,12-16-2024,Southern Province,Nyamagabe,Liquid Telecom Rwanda,Mobile Money,Unsolicited SMS/Spam,Call Center,Customer care line not answering after multiple attempts.,36,Female,Resolved,27,3
+RURA-ICT-00322,04/02/2023,Southern Province,Nyaruguru,MTN Rwanda,Fixed Voice,Mobile Money Transaction Failure,Social Media,Mobile money transfer deducted but recipient did not receive funds.,28,Female,Pending,,3
+RURA-ICT-00838,19/05/2024,Eastern Province,Bugesera,AIRTEL,Mobile Voice,Mobile Money Fraud/Scam,Social Media,Received suspicious SMS asking for mobile money PIN.,77,male,In Progress,9,
+RURA-ICT-00468,2024-12-02,Northern Province,Gicumbi,REG ICT,Mobile Money,Service Activation Delay,Web Portal,,46,Other,Resolved,29,3
+RURA-ICT-00178,2024-06-07,Northern Province,Gakenke,Liquid Telecom Rwanda,Fixed Internet,Slow Internet Speed,Web Portal,Received unsolicited promotional SMS despite opt-out request.,50,female,Pending,,1
+RURA-ICT-00785,11-16-2023,Southern Province,Nyanza,AIRTEL,Fixed Internet,Data Bundle Deduction Issue,Web Portal,SIM card registered under wrong national ID.,43,Male,Pending,,3
+RURA-ICT-00057,19-Jul-2024,Eastern Province,Rwamagana,M.T.N Rwanda,Mobile Data/Internet,Billing Dispute,Email,Customer reports repeated call drops in Rwamagana.,-5,Other,pending ,,2
+RURA-ICT-00119,2024-01-15,Southern Province,Muhanga,liquid telecom,Mobile Money,SIM Registration Issue,Social Media,,75,F,OPEN,,
+RURA-ICT-00842,11-07-2023,Southern Province,Ruhango,REG ICT,Fixed Voice,Mobile Money Fraud/Scam,Walk-in,Customer care line not answering after multiple attempts.,58,female,closed,10,4
+RURA-ICT-00465,2024-05-23,Kigali City,Nyarugenge,REG-ICT,SMS,Service Activation Delay,USSD,Received suspicious SMS asking for mobile money PIN.,31,female,pending ,,-1
+RURA-ICT-00596,11-24-2023,Northern Province,Gakenke,Liquid Telecom Rwanda,Fixed Voice,Service Activation Delay,Web Portal,Delay of over a week in activating new fixed internet line.,31,male,Open,,5
+RURA-ICT-00365,04/07/2023,Southern Province,Muhanga,,Fixed Internet,Customer Care Unresponsive,Web Portal,Customer care line not answering after multiple attempts.,40,M,Pending,,
+RURA-ICT-00585,2024-05-29,Eastern Province,Kayonza,airtel rwanda,Mobile Data/Internet,Billing Dispute,Walk-in,No network coverage since yesterday evening.,43,Male,Pending,,
+RURA-ICT-00342,15/02/2023,Kigali City,Kicukiro,airtel rwanda,SMS,Unsolicited SMS/Spam,USSD,Customer care line not answering after multiple attempts.,63,Male,OPEN,,1
+RURA-ICT-00549,29-Aug-2023,Eastern Province,Gatsibo,,Mobile Voice,Mobile Money Transaction Failure,Walk-in,Customer care line not answering after multiple attempts.,70,,Closed,29,3
+RURA-ICT-00497,15-Dec-2024,Western Province,Rubavu ,BSC,Mobile Voice,Unsolicited SMS/Spam,USSD,Customer care line not answering after multiple attempts.,,male,Resolved,15,2
+RURA-ICT-00209,20-Jan-2023,Kigali City,gasabo,Broadband Systems Corporation,Fixed Voice,Customer Care Unresponsive,Walk-in,,61,Other,pending ,,4
+RURA-ICT-00019,17/03/2023,Southern Province,Ruhango,Liquid Telecom Rwanda,Mobile Voice,Unsolicited SMS/Spam,USSD,Complainant charged twice for the same data bundle.,32,female,In Progress,28,
+RURA-ICT-00899,2024-06-16,Eastern Province,Kayonza,Broadband Systems Corporation,Mobile Money,Network Outage,Social Media,Complainant charged twice for the same data bundle.,57,,In Progress,20,
+RURA-ICT-00085,04-24-2023,Western Province,Karongi,BSC,Mobile Data/Internet,Customer Care Unresponsive,Call Center,Internet speed far below advertised package.,78,male,Resolved,999,1
+RURA-ICT-00103,09-21-2024,Kigali City,Nyarugenge,,Mobile Data/Internet,Billing Dispute,Email,Customer reports repeated call drops in Nyarugenge.,69,Male,resolved,2,3
+RURA-ICT-00840,2023-07-18,Kigali City,Kicukiro,Liquid Telecom Rwanda,Fixed Internet,SIM Registration Issue,Web Portal,No network coverage since yesterday evening.,43,male,pending ,,3
+RURA-ICT-00069,20-Aug-2023,Eastern Province,Bugesera,liquid telecom,Mobile Money,Poor Network Quality,Social Media,No network coverage since yesterday evening.,62,F,open,,1
+RURA-ICT-00638,2023-01-13,Kigali City,gasabo,broadband systems,Fixed Internet,Poor Network Quality,Web Portal,No network coverage since yesterday evening.,18,F,pending ,,1
+RURA-ICT-00271,2024-10-03,Northern Province,Gicumbi,REG-ICT,Mobile Voice,Billing Dispute,USSD,Customer reports repeated call drops in Gicumbi.,43,,pending ,,2
+RURA-ICT-00169,16/08/2023,Western Province,Rubavu,BSC,Fixed Internet,Poor Network Quality,Call Center,Received suspicious SMS asking for mobile money PIN.,66,Other,open,,5
+RURA-ICT-00539,30-Dec-2023,Kigali City,Gasabo,M.T.N Rwanda,Mobile Data/Internet,Slow Internet Speed,Walk-in,Received suspicious SMS asking for mobile money PIN.,72,Male,pending ,,
+RURA-ICT-00608,09-19-2023,Western Province,Nyamasheke,Liquid Telecom Rwanda,Fixed Voice,Slow Internet Speed,Social Media,Received unsolicited promotional SMS despite opt-out request.,36,,open,,3
+RURA-ICT-00048,15-Feb-2024,Eastern Province,Kirehe,Liquid Telecom Rwanda,Mobile Voice,Mobile Money Fraud/Scam,Social Media,Complainant charged twice for the same data bundle.,,M,open,,
+RURA-ICT-00317,18/01/2024,Eastern Province,Ngoma,MTN RWANDA,Mobile Money,Slow Internet Speed,Walk-in,Received unsolicited promotional SMS despite opt-out request.,71,,Open,,
+RURA-ICT-00878,14-Nov-2024,Kigali City,Nyarugenge,broadband systems,SMS,Slow Internet Speed,Social Media,Received unsolicited promotional SMS despite opt-out request.,,F,In Progress,25,1
+RURA-ICT-00319,07-12-2023,Northern Province,Gicumbi,MTN RWANDA,SMS,Unsolicited SMS/Spam,Email,Customer care line not answering after multiple attempts.,,M,In Progress,0,
+RURA-ICT-00303,22-Mar-2023,Northern Province,Burera,Airtel,SMS,SIM Registration Issue,Walk-in,Complainant charged twice for the same data bundle.,85,M,open,,3
+RURA-ICT-00343,2024-12-11,Kigali City,Nyarugenge,MTN,SMS,Billing Dispute,Email,SIM card registered under wrong national ID.,76,M,Open,,5
+RURA-ICT-00113,2023-08-18,Western Province,Nyamasheke,Liquid Telecom Rwanda,Fixed Voice,Service Activation Delay,Walk-in,Received unsolicited promotional SMS despite opt-out request.,33,Female,Resolved,0,5
+RURA-ICT-00697,26-Oct-2024,Eastern Province,Nyagatare,Liquid Telecom Rwanda,Fixed Internet,Mobile Money Fraud/Scam,Email,Customer reports repeated call drops in Nyagatare.,70,Female,open,,
+RURA-ICT-00500,12/06/2023,Southern Province,Kamonyi,Airtel Rwanda,Mobile Voice,SIM Registration Issue,Email,Billed for services not subscribed to.,80,M,Resolved,10,5
+RURA-ICT-00438,10-13-2024,Eastern Province,Gatsibo,airtel rwanda,Mobile Data/Internet,Network Outage,Email,Internet speed far below advertised package.,,male,Resolved,29,
+RURA-ICT-00823,07/06/2024,Eastern Province,Gatsibo,mtn rwanda,Mobile Voice,Slow Internet Speed,Web Portal,Received unsolicited promotional SMS despite opt-out request.,36,Other,resolved,27,
+RURA-ICT-00686,2024-11-18,Southern Province,Kamonyi,REG-ICT,Mobile Voice,Customer Care Unresponsive,Email,,69,,In Progress,10,
+RURA-ICT-00226,02-11-2024,Northern Province,Burera,REG ICT,Mobile Money,Poor Network Quality,Call Center,Received unsolicited promotional SMS despite opt-out request.,82,Other,resolved,0,5
+RURA-ICT-00101,2024-09-22,Northern Province,Burera,mtn rwanda,Fixed Internet,Billing Dispute,Web Portal,Customer care line not answering after multiple attempts.,18,male,Pending,,
+RURA-ICT-00345,10-05-2023,Western Province,Nyamasheke,MTN RWANDA,Fixed Voice,Network Outage,Call Center,Billed for services not subscribed to.,18,male,resolved,20,4
+RURA-ICT-00298,07-16-2024,Eastern Province,Kirehe,REG-ICT,SMS,Network Outage,Web Portal,Complainant charged twice for the same data bundle.,60,female,open,,3
+RURA-ICT-00783,08-12-2024,Northern Province,Gicumbi,REG-ICT,Mobile Data/Internet,Customer Care Unresponsive,USSD,SIM card registered under wrong national ID.,76,Female,resolved,25,
+RURA-ICT-00620,2023-10-03,Eastern Province,Kirehe,Liquid Telecom,Mobile Money,Data Bundle Deduction Issue,Walk-in,,72,Male,pending ,,
+RURA-ICT-00193,2024-02-16,Kigali City,Kicukiro,REG ICT,Fixed Voice,Customer Care Unresponsive,Social Media,,84,Male,resolved,9,
+RURA-ICT-00050,03/09/2023,Southern Province,Huye,MTN,Fixed Voice,Mobile Money Transaction Failure,Email,No network coverage since yesterday evening.,36,M,open,,5
+RURA-ICT-00217,2023-09-20,Southern Province,Ruhango,mtn rwanda,Mobile Data/Internet,Mobile Money Transaction Failure,Web Portal,SIM card registered under wrong national ID.,22,,open,,4
+RURA-ICT-00311,07-02-2023,Eastern Province,Kayonza,liquid telecom,Mobile Voice,Service Activation Delay,Social Media,Received unsolicited promotional SMS despite opt-out request.,21,Female,pending ,,
+RURA-ICT-00616,21/11/2024,Southern Province,Kamonyi,,SMS,Network Outage,USSD,No network coverage since yesterday evening.,62,Male,Pending,,1
+RURA-ICT-00065,16-Oct-2024,Eastern Province,Ngoma,REG-ICT,Mobile Voice,Unsolicited SMS/Spam,Email,Received suspicious SMS asking for mobile money PIN.,74,male,In Progress,12,1
+RURA-ICT-00430,26-Jan-2023,Southern Province,Nyanza,Broadband Systems Corporation,Mobile Data/Internet,Service Activation Delay,USSD,Received suspicious SMS asking for mobile money PIN.,44,Other,open,,3
+RURA-ICT-00276,19/12/2023,Kigali City,Gasabo,broadband systems,SMS,Poor Network Quality,Email,,81,Male,Closed,7,3
+RURA-ICT-00824,14-Aug-2024,Eastern Province,Gatsibo,airtel rwanda,Mobile Data/Internet,Mobile Money Fraud/Scam,Call Center,Mobile money transfer deducted but recipient did not receive funds.,72,Female,Open,,4
+RURA-ICT-00162,04-02-2023,Northern Province,Rulindo,broadband systems,SMS,Customer Care Unresponsive,Social Media,Customer reports repeated call drops in Rulindo.,57,,open,,
+RURA-ICT-00804,2024-11-16,Southern Province,Gisagara,broadband systems,Fixed Internet,Customer Care Unresponsive,Call Center,Customer care line not answering after multiple attempts.,38,Female,Resolved,10,1
+RURA-ICT-00006,09/03/2023,Western Province,Rusizi,Liquid Telecom Rwanda,Mobile Data/Internet,Network Outage,Email,Received suspicious SMS asking for mobile money PIN.,56,Female,resolved,12,4
+RURA-ICT-00062,2024-05-14,Southern Province,Nyaruguru,mtn rwanda,Fixed Voice,Customer Care Unresponsive,Social Media,Billed for services not subscribed to.,46,male,Resolved,23,
+RURA-ICT-00029,2024-02-20,Eastern Province,Gatsibo,broadband systems,Fixed Voice,Billing Dispute,USSD,Received suspicious SMS asking for mobile money PIN.,42,,In Progress,19,4
+RURA-ICT-00588,09-03-2023,Eastern Province,Kirehe,liquid telecom,Fixed Internet,SIM Registration Issue,Email,SIM card registered under wrong national ID.,64,M,Resolved,27,1
+RURA-ICT-00649,03/06/2023,Northern Province,Gicumbi,Airtel Rwanda,Mobile Data/Internet,Poor Network Quality,Call Center,Internet speed far below advertised package.,33,male,In Progress,23,1
+RURA-ICT-00305,2023-11-20,Eastern Province,Nyagatre,broadband systems,Mobile Data/Internet,Unsolicited SMS/Spam,Call Center,Customer care line not answering after multiple attempts.,,Female,pending ,,1
+RURA-ICT-00433,29/02/2024,Northern Province,Rulindo,BSC,Mobile Money,Billing Dispute,Web Portal,,27,Male,resolved,15,5
+RURA-ICT-00624,15/03/2024,Northern Province,Gakenke,Airtel,Mobile Money,Poor Network Quality,Email,Billed for services not subscribed to.,29,Male,Closed,27,2
+RURA-ICT-00677,2023-01-24,Northern Province,Rulindo,liquid telecom,Mobile Voice,Mobile Money Fraud/Scam,Call Center,Billed for services not subscribed to.,31,F,OPEN,,
+RURA-ICT-00848,10-Feb-2024,Southern Province,Gisagara,,Mobile Voice,Billing Dispute,Call Center,Internet speed far below advertised package.,83,M,resolved,16,5
+RURA-ICT-00234,04-22-2024,Kigali City,GASABO,Liquid Telecom,Fixed Internet,SIM Registration Issue,Social Media,Mobile money transfer deducted but recipient did not receive funds.,66,F,closed,999,5
+RURA-ICT-00479,05-26-2024,Northern Province,Musanze District,Broadband Systems Corporation,Mobile Money,Poor Network Quality,Email,No network coverage since yesterday evening.,71,male,Open,,3
+RURA-ICT-00030,06-11-2024,Eastern Province,Kirehe,AIRTEL,Fixed Voice,Billing Dispute,Web Portal,Received suspicious SMS asking for mobile money PIN.,0,male,open,,
+RURA-ICT-00150,09-03-2023,Northern Province,Burera,MTN RWANDA,Mobile Data/Internet,Slow Internet Speed,Web Portal,Internet speed far below advertised package.,64,Other,Closed,11,6
+RURA-ICT-00263,2024-03-08,Southern Province,Ruhango,,Fixed Voice,Data Bundle Deduction Issue,Web Portal,Received suspicious SMS asking for mobile money PIN.,19,,pending ,,
+RURA-ICT-00442,2024-03-11,Northern Province,Burera,Airtel,Mobile Money,Billing Dispute,Walk-in,Complainant charged twice for the same data bundle.,,Other,OPEN,,1
+RURA-ICT-00535,29/04/2024,Eastern Province,Bugesera,M.T.N Rwanda,Fixed Voice,SIM Registration Issue,Email,Complainant charged twice for the same data bundle.,22,female,Closed,7,5
+RURA-ICT-00247,15-Jul-2024,Northern Province,Gicumbi,REG-ICT,Mobile Money,Data Bundle Deduction Issue,Email,Customer reports repeated call drops in Gicumbi.,77,female,OPEN,,
+RURA-ICT-00140,11-19-2024,Kigali City,Kicukiro,AIRTEL,Fixed Internet,Slow Internet Speed,Call Center,Customer care line not answering after multiple attempts.,66,male,pending ,,2
+RURA-ICT-00105,29-Jun-2023,Western Province,Ngororero,Liquid Telecom Rwanda,Mobile Voice,SIM Registration Issue,USSD,Billed for services not subscribed to.,77,Male,Resolved,2,4
+RURA-ICT-00717,10-24-2023,Northern Province,Burera,Airtel,SMS,Customer Care Unresponsive,Walk-in,Customer care line not answering after multiple attempts.,79,female,Pending,,4
+RURA-ICT-00483,2024-01-18,Northern Province,Rulindo,mtn rwanda,Mobile Voice,Mobile Money Fraud/Scam,Web Portal,Internet speed far below advertised package.,35,M,open,,
+RURA-ICT-00590,2024-02-14,Southern Province,Huye,mtn rwanda,Fixed Voice,Unsolicited SMS/Spam,Walk-in,Customer care line not answering after multiple attempts.,76,F,In Progress,9,2
+RURA-ICT-00178,2024-06-07,Northern Province,Gakenke,Liquid Telecom Rwanda,Fixed Internet,Slow Internet Speed,Web Portal,Received unsolicited promotional SMS despite opt-out request.,50,female,Pending,,1
+RURA-ICT-00611,2023-04-18,Southern Province,Muhanga,airtel rwanda,Mobile Voice,Poor Network Quality,Social Media,Internet speed far below advertised package.,55,Other,Closed,11,3
+RURA-ICT-00775,03/08/2024,Western Province,Rusizi,MTN,Fixed Internet,Slow Internet Speed,Social Media,,,Other,pending ,,
+RURA-ICT-00784,2023-03-21,Northern Province,Musanze,REG-ICT,Mobile Data/Internet,Billing Dispute,Social Media,SIM card registered under wrong national ID.,72,,Open,,3
+RURA-ICT-00896,02/07/2024,Western Province,Nyamasheke,MTN,Mobile Data/Internet,Service Activation Delay,USSD,No network coverage since yesterday evening.,28,Male,Pending,,5
+RURA-ICT-00889,28-Aug-2024,Northern Province,Rulindo,liquid telecom,Mobile Voice,Unsolicited SMS/Spam,USSD,Customer care line not answering after multiple attempts.,,Male,Pending,,
+RURA-ICT-00725,09-Jul-2023,Northern Province,Musanze,mtn rwanda,Fixed Internet,Slow Internet Speed,USSD,SIM card registered under wrong national ID.,42,Other,open,,3
+RURA-ICT-00273,2023-11-20,Kigali City,Nyarugenge,airtel rwanda,Fixed Internet,Data Bundle Deduction Issue,Social Media,Internet speed far below advertised package.,31,M,resolved,19,
+RURA-ICT-00236,23-Sep-2023,Western Province,Karongi,liquid telecom,Mobile Data/Internet,Network Outage,Web Portal,Received suspicious SMS asking for mobile money PIN.,20,Female,Pending,,2
+RURA-ICT-00291,11/03/2024,Western Province,Karongi,AIRTEL,Fixed Internet,SIM Registration Issue,USSD,Complainant charged twice for the same data bundle.,45,F,In Progress,28,3
+RURA-ICT-00635,2023-09-20,Southern Province,Nyamagabe,MTN Rwanda,Mobile Money,Mobile Money Transaction Failure,Web Portal,No network coverage since yesterday evening.,29,,closed,8,5
+RURA-ICT-00782,02-17-2024,Southern Province,Gisagara,broadband systems,Fixed Voice,Mobile Money Fraud/Scam,Email,,41,F,In Progress,3,3
+RURA-ICT-00827,05-30-2023,Southern Province,Nyaruguru,,Fixed Voice,Unsolicited SMS/Spam,Social Media,Complainant charged twice for the same data bundle.,30,Male,open,,3
+RURA-ICT-00106,12-Feb-2024,Kigali City,Kicukiro,Airtel Rwanda,Mobile Data/Internet,Network Outage,Email,Received unsolicited promotional SMS despite opt-out request.,40,male,closed,24,
+RURA-ICT-00195,13/01/2023,Eastern Province,Rwamagana,broadband systems,SMS,Network Outage,Email,Complainant charged twice for the same data bundle.,36,Other,OPEN,,5
+RURA-ICT-00540,30/05/2023,Kigali City,Gasabo ,,Mobile Money,Mobile Money Fraud/Scam,USSD,,59,male,pending ,,1
+RURA-ICT-00778,24-May-2023,Eastern Province,Bugesera,MTN Rwanda,Fixed Internet,Unsolicited SMS/Spam,Walk-in,Customer care line not answering after multiple attempts.,53,F,pending ,,3
+RURA-ICT-00667,2024-04-05,Southern Province,Nyanza,BSC,SMS,Network Outage,Social Media,Billed for services not subscribed to.,,Female,OPEN,,5
+RURA-ICT-00536,01-22-2024,Western Province,Karongi,MTN RWANDA,SMS,Poor Network Quality,Call Center,Customer reports repeated call drops in Karongi.,24,Male,Open,,
+RURA-ICT-00061,16/01/2023,Eastern Province,Rwamagana,airtel rwanda,Mobile Voice,Unsolicited SMS/Spam,Call Center,Customer care line not answering after multiple attempts.,35,F,pending ,,3
+RURA-ICT-00281,2024-04-20,Southern Province,Ruhango,airtel rwanda,Fixed Internet,Mobile Money Transaction Failure,USSD,No network coverage since yesterday evening.,80,M,closed,27,5
+RURA-ICT-00567,2024-03-28,Eastern Province,Ngoma,Airtel,Fixed Voice,Network Outage,Web Portal,Mobile money transfer deducted but recipient did not receive funds.,82,F,pending ,,3
+RURA-ICT-00027,30/01/2024,Kigali City,Gasabo,liquid telecom,Mobile Money,Data Bundle Deduction Issue,USSD,Complainant charged twice for the same data bundle.,71,M,pending ,,5
+RURA-ICT-00615,2024-05-24,Eastern Province,Bugesera,MTN RWANDA,Fixed Voice,Customer Care Unresponsive,Web Portal,Customer care line not answering after multiple attempts.,40,M,OPEN,,5
+RURA-ICT-00036,08-13-2023,Eastern Province,Bugesera,broadband systems,Fixed Voice,Customer Care Unresponsive,USSD,Customer care line not answering after multiple attempts.,19,,Closed,21,2
+RURA-ICT-00833,03/05/2023,Kigali City,Kicukiro,airtel rwanda,Mobile Data/Internet,Mobile Money Transaction Failure,Walk-in,Delay of over a week in activating new fixed internet line.,74,M,closed,27,5
+RURA-ICT-00594,01-02-2023,Southern Province,Kamonyi,M.T.N Rwanda,Mobile Money,Billing Dispute,Email,Delay of over a week in activating new fixed internet line.,,Female,resolved,13,6
+RURA-ICT-00740,11-29-2024,Southern Province,Muhanga,BSC,Fixed Voice,Mobile Money Transaction Failure,Walk-in,Received suspicious SMS asking for mobile money PIN.,0,male,Open,,4
+RURA-ICT-00399,02-Jul-2023,Kigali City,Kicukiro,MTN RWANDA,Fixed Internet,SIM Registration Issue,Call Center,Received suspicious SMS asking for mobile money PIN.,,Female,closed,5,1
+RURA-ICT-00876,18-Mar-2024,Kigali City,Gasabo,,Mobile Money,Mobile Money Transaction Failure,Web Portal,,,F,Pending,,3
+RURA-ICT-00602,2023-05-03,Eastern Province,Bugesera,BSC,Fixed Voice,Service Activation Delay,Social Media,Customer reports repeated call drops in Bugesera.,210,Female,Resolved,999,
+RURA-ICT-00637,2023-10-16,Northern Province,Rulindo,Airtel,Mobile Data/Internet,Slow Internet Speed,Social Media,Billed for services not subscribed to.,38,,OPEN,,2
+RURA-ICT-00146,26-Nov-2024,Northern Province,Rulindo,Liquid Telecom,Mobile Voice,Customer Care Unresponsive,USSD,Billed for services not subscribed to.,22,female,OPEN,,4
+RURA-ICT-00656,28/11/2024,Southern Province,Muhanga,AIRTEL,Mobile Voice,Service Activation Delay,Call Center,Mobile money transfer deducted but recipient did not receive funds.,36,female,Closed,4,3
+RURA-ICT-00446,2023-11-18,Northern Province,Gicumbi,BSC,Mobile Data/Internet,Customer Care Unresponsive,Walk-in,Complainant charged twice for the same data bundle.,82,Male,resolved,11,5
+RURA-ICT-00176,02-24-2023,Western Province,Rusizi,BSC,Mobile Data/Internet,Billing Dispute,Email,Delay of over a week in activating new fixed internet line.,78,Male,Pending,,
+RURA-ICT-00636,09/02/2024,Western Province,Rusizi,Broadband Systems Corporation,Mobile Money,Mobile Money Fraud/Scam,Walk-in,Billed for services not subscribed to.,71,female,In Progress,15,
+RURA-ICT-00286,2023-12-05,Northern Province,Gicumbi,,Mobile Voice,Service Activation Delay,Walk-in,,77,Other,resolved,5,4
+RURA-ICT-00408,2023-09-07,Southern Province,Muhanga,Broadband Systems Corporation,Fixed Voice,SIM Registration Issue,USSD,Customer care line not answering after multiple attempts.,64,Male,OPEN,,
+RURA-ICT-00570,2023-11-20,Northern Province,Burera,mtn rwanda,Mobile Money,Billing Dispute,Call Center,Billed for services not subscribed to.,74,Female,resolved,26,
+RURA-ICT-00172,17-Oct-2024,Northern Province,Gicumbi,REG ICT,Fixed Internet,Mobile Money Transaction Failure,Social Media,No network coverage since yesterday evening.,41,Other,OPEN,,4
+RURA-ICT-00402,29-Jan-2024,Eastern Province,Kirehe,BSC,Fixed Voice,Poor Network Quality,USSD,Customer reports repeated call drops in Kirehe.,84,female,Closed,9,1
+RURA-ICT-00269,2024-05-01,Northern Province,Burera,Liquid Telecom,Mobile Money,Mobile Money Fraud/Scam,Walk-in,Received unsolicited promotional SMS despite opt-out request.,60,Other,In Progress,20,5
+RURA-ICT-00141,23/02/2024,Western Province,rubavu,M.T.N Rwanda,Mobile Voice,Poor Network Quality,Social Media,Received suspicious SMS asking for mobile money PIN.,69,female,Open,,4
+RURA-ICT-00763,15-Nov-2024,Northern Province,Gicumbi,broadband systems,Fixed Voice,Billing Dispute,Email,Received suspicious SMS asking for mobile money PIN.,66,female,Closed,9,
+RURA-ICT-00393,02/05/2024,Southern Province,Huye,MTN Rwanda,Mobile Data/Internet,Unsolicited SMS/Spam,Social Media,Received suspicious SMS asking for mobile money PIN.,65,Other,Pending,,
+RURA-ICT-00228,17/02/2024,Southern Province,Nyaruguru,broadband systems,SMS,Unsolicited SMS/Spam,Call Center,Received suspicious SMS asking for mobile money PIN.,67,M,OPEN,,3
+RURA-ICT-00883,12-Dec-2023,Western Province,Karongi,AIRTEL,Mobile Data/Internet,Mobile Money Fraud/Scam,Web Portal,SIM card registered under wrong national ID.,36,Male,Pending,,0
+RURA-ICT-00813,30/04/2023,Eastern Province,Kirehe,MTN,Fixed Voice,Mobile Money Fraud/Scam,Web Portal,Internet speed far below advertised package.,54,Female,open,,1
+RURA-ICT-00618,07-Jan-2023,Northern Province,Gicumbi,REG-ICT,Fixed Internet,Slow Internet Speed,Social Media,SIM card registered under wrong national ID.,61,F,Open,,
+RURA-ICT-00283,2023-02-17,Southern Province,Kamonyi,MTN,SMS,SIM Registration Issue,Social Media,Customer care line not answering after multiple attempts.,57,F,Pending,,5
+RURA-ICT-00523,22/07/2024,Kigali City,Kicukiro,Airtel Rwanda,Mobile Money,Customer Care Unresponsive,USSD,Mobile money transfer deducted but recipient did not receive funds.,68,Other,open,,
+RURA-ICT-00425,08-15-2024,Southern Province,Kamonyi,MTN Rwanda,Mobile Data/Internet,Customer Care Unresponsive,Web Portal,Internet speed far below advertised package.,57,Other,Resolved,22,5
+RURA-ICT-00005,2024-11-30,Southern Province,Ruhango,Liquid Telecom Rwanda,Mobile Money,SIM Registration Issue,Walk-in,,37,Female,closed,12,
+RURA-ICT-00427,2023-04-30,Northern Province,Gakenke,Liquid Telecom Rwanda,Mobile Data/Internet,Service Activation Delay,Walk-in,Mobile money transfer deducted but recipient did not receive funds.,32,Other,OPEN,,
+RURA-ICT-00293,09-18-2024,Eastern Province,Gatsibo,REG ICT,Mobile Money,Customer Care Unresponsive,Social Media,SIM card registered under wrong national ID.,66,Female,In Progress,25,2
+RURA-ICT-00632,2023-08-12,Eastern Province,Kirehe,REG ICT,Mobile Data/Internet,Billing Dispute,Call Center,Delay of over a week in activating new fixed internet line.,81,Other,OPEN,,5
+RURA-ICT-00773,21-Apr-2023,Western Province,Rusizi,Broadband Systems Corporation,Fixed Internet,Data Bundle Deduction Issue,Email,,19,,pending ,,4
+RURA-ICT-00213,07-01-2023,Western Province,Karongi,mtn rwanda,SMS,Mobile Money Transaction Failure,Walk-in,,,Male,Resolved,29,
+RURA-ICT-00323,02/11/2023,Southern Province,Muhanga,M.T.N Rwanda,SMS,Poor Network Quality,Email,Billed for services not subscribed to.,22,Female,Pending,,2
+RURA-ICT-00753,2024-08-28,Northern Province,Rulindo,REG-ICT,Fixed Voice,Mobile Money Fraud/Scam,Call Center,SIM card registered under wrong national ID.,21,F,Resolved,11,4
+RURA-ICT-00051,04/12/2024,Eastern Province,Ngoma,MTN,Mobile Money,Mobile Money Fraud/Scam,Web Portal,Complainant charged twice for the same data bundle.,41,,Pending,,
+RURA-ICT-00835,07-Dec-2024,Eastern Province,Nyagatare,airtel rwanda,Fixed Voice,Billing Dispute,Web Portal,Mobile money transfer deducted but recipient did not receive funds.,50,male,Closed,6,1
+RURA-ICT-00333,03-29-2024,Northern Province,Gakenke,broadband systems,Mobile Money,Service Activation Delay,Walk-in,Delay of over a week in activating new fixed internet line.,57,female,pending ,,4
+RURA-ICT-00607,07/02/2023,Western Province,Rutsiro,REG-ICT,Fixed Voice,Poor Network Quality,Web Portal,Mobile money transfer deducted but recipient did not receive funds.,43,Male,Open,,2
+RURA-ICT-00028,05-08-2023,Northern Province,Gicumbi,Broadband Systems Corporation,Fixed Voice,SIM Registration Issue,USSD,Billed for services not subscribed to.,68,female,Resolved,9,2
+RURA-ICT-00760,03-17-2023,Northern Province,Gakenke,Liquid Telecom,Fixed Internet,Service Activation Delay,Web Portal,Billed for services not subscribed to.,20,,pending ,,
+RURA-ICT-00621,17-May-2023,Eastern Province,Rwamagana,liquid telecom,Mobile Data/Internet,Poor Network Quality,Walk-in,Customer reports repeated call drops in Rwamagana.,58,M,closed,6,3
+RURA-ICT-00224,30-Aug-2023,Northern Province,Gakenke,MTN RWANDA,SMS,Data Bundle Deduction Issue,USSD,Delay of over a week in activating new fixed internet line.,66,M,Pending,,5
+RURA-ICT-00754,2024-08-26,Eastern Province,Gatsibo,BSC,Fixed Internet,Billing Dispute,Web Portal,,16,female,OPEN,,4
+RURA-ICT-00744,2023-12-28,Kigali City,Nyarugenge,Airtel Rwanda,Fixed Voice,Mobile Money Fraud/Scam,Email,Billed for services not subscribed to.,60,F,Open,,
+RURA-ICT-00332,10-15-2024,Western Province,Ngororero,Airtel,SMS,Customer Care Unresponsive,Social Media,,70,F,open,,
+RURA-ICT-00808,2024-01-09,Kigali City,Nyarugenge,broadband systems,Mobile Money,Unsolicited SMS/Spam,Web Portal,Received unsolicited promotional SMS despite opt-out request.,70,,Resolved,2,
+RURA-ICT-00839,2024-03-26,Western Province,Rusizi,Liquid Telecom,Fixed Voice,Customer Care Unresponsive,USSD,Billed for services not subscribed to.,39,Other,closed,999,2
+RURA-ICT-00370,2023-11-19,Western Province,Nyabihu,AIRTEL,Mobile Data/Internet,Slow Internet Speed,Call Center,,27,Other,closed,11,3
+RURA-ICT-00285,2023-08-24,Eastern Province,Bugesera,broadband systems,Mobile Voice,Customer Care Unresponsive,Walk-in,No network coverage since yesterday evening.,51,Female,Pending,,
+RURA-ICT-00431,2024-04-01,Kigali City,Nyarugenge,Airtel,Mobile Money,Mobile Money Transaction Failure,Call Center,Received unsolicited promotional SMS despite opt-out request.,66,Female,open,,5
+RURA-ICT-00614,2023-09-03,Northern Province,Gicumbi,mtn rwanda,Fixed Internet,SIM Registration Issue,Call Center,Complainant charged twice for the same data bundle.,23,F,open,,5
+RURA-ICT-00587,2023-01-08,Southern Province,Huye,BSC,Fixed Voice,Poor Network Quality,Call Center,Received suspicious SMS asking for mobile money PIN.,-5,,Open,,3
+RURA-ICT-00361,02-26-2023,Western Province,Nyamasheke,,SMS,Mobile Money Transaction Failure,Call Center,No network coverage since yesterday evening.,,M,OPEN,,5
+RURA-ICT-00265,03-02-2024,Western Province,Karongi,airtel rwanda,Fixed Voice,Service Activation Delay,Call Center,Internet speed far below advertised package.,22,M,resolved,6,4
+RURA-ICT-00698,2023-04-22,Eastern Province,Kayonza,REG ICT,SMS,Slow Internet Speed,Social Media,Internet speed far below advertised package.,30,Female,pending ,,
+RURA-ICT-00356,2024-04-07,Northern Province,Rulindo,liquid telecom,Mobile Voice,Customer Care Unresponsive,Walk-in,Billed for services not subscribed to.,30,Male,Pending,,5
+RURA-ICT-00309,07-27-2024,Southern Province,Ruhango,MTN RWANDA,Fixed Voice,SIM Registration Issue,Email,SIM card registered under wrong national ID.,68,F,Resolved,21,2
+RURA-ICT-00551,03-26-2023,Eastern Province,Rwamagana,AIRTEL,Mobile Data/Internet,Mobile Money Fraud/Scam,Web Portal,SIM card registered under wrong national ID.,81,F,open,,2
+RURA-ICT-00313,27-Jan-2023,Northern Province,Burera,Broadband Systems Corporation,Mobile Voice,Poor Network Quality,Social Media,Customer reports repeated call drops in Burera.,26,F,pending ,,
+RURA-ICT-00712,05-24-2023,Eastern Province,Kirehe,BSC,Mobile Voice,Customer Care Unresponsive,Call Center,Complainant charged twice for the same data bundle.,81,female,resolved,17,3
+RURA-ICT-00613,24-Dec-2024,Eastern Province,Nyagatare,mtn rwanda,Fixed Voice,Mobile Money Transaction Failure,Web Portal,Internet speed far below advertised package.,61,Other,In Progress,8,5
+RURA-ICT-00761,23-Aug-2024,Western Province,Nyamasheke,Airtel Rwanda,Fixed Voice,Service Activation Delay,Call Center,No network coverage since yesterday evening.,44,Female,Closed,4,2
+RURA-ICT-00003,12-19-2023,Southern Province,Muhanga,airtel rwanda,Mobile Voice,Poor Network Quality,Social Media,SIM card registered under wrong national ID.,74,F,open,,4
+RURA-ICT-00882,05/07/2024,Eastern Province,Bugesera,Liquid Telecom Rwanda,Fixed Internet,Poor Network Quality,Email,Delay of over a week in activating new fixed internet line.,55,F,Resolved,2,3
+RURA-ICT-00517,16-Feb-2023,Kigali City,Nyarugenge,REG ICT,Fixed Internet,Mobile Money Transaction Failure,Social Media,Received unsolicited promotional SMS despite opt-out request.,27,Male,Resolved,18,3
+RURA-ICT-00655,2024-05-30,Eastern Province,Nyagatre,Liquid Telecom Rwanda,Fixed Voice,Service Activation Delay,Call Center,Internet speed far below advertised package.,35,M,Resolved,12,1
+RURA-ICT-00451,2023-11-07,Kigali City,Gasabo,MTN,Fixed Internet,Slow Internet Speed,Web Portal,No network coverage since yesterday evening.,82,Other,Resolved,6,
+RURA-ICT-00897,05-04-2023,Northern Province,Rulindo,Airtel,Fixed Internet,Network Outage,USSD,Received unsolicited promotional SMS despite opt-out request.,29,female,Open,,5
+RURA-ICT-00316,2023-11-07,Western Province,Rusizi,MTN RWANDA,Mobile Money,SIM Registration Issue,Social Media,No network coverage since yesterday evening.,,Male,closed,15,4
+RURA-ICT-00130,03-28-2024,Eastern Province,Bugesera,Liquid Telecom Rwanda,Mobile Money,Network Outage,Email,SIM card registered under wrong national ID.,43,Female,open,,3
+RURA-ICT-00722,26/08/2023,Kigali City,gasabo,Airtel Rwanda,Fixed Voice,Poor Network Quality,Social Media,SIM card registered under wrong national ID.,38,,Pending,,4
+RURA-ICT-00796,04-Aug-2023,Eastern Province,Bugesera,Airtel Rwanda,SMS,Data Bundle Deduction Issue,Walk-in,Delay of over a week in activating new fixed internet line.,52,Female,pending ,,5
+RURA-ICT-00050,03/09/2023,Southern Province,Huye,MTN,Fixed Voice,Mobile Money Transaction Failure,Email,No network coverage since yesterday evening.,36,M,open,,5
+RURA-ICT-00859,15/11/2024,Southern Province,Nyaruguru,AIRTEL,Mobile Data/Internet,Billing Dispute,USSD,,30,Male,OPEN,,
+RURA-ICT-00685,03/12/2023,Southern Province,Nyamagabe,airtel rwanda,Mobile Voice,Network Outage,Email,,57,Female,Open,,4
+RURA-ICT-00357,30/12/2024,Northern Province,Rulindo,BSC,Fixed Internet,Network Outage,Walk-in,Delay of over a week in activating new fixed internet line.,27,male,Pending,,-1
+RURA-ICT-00579,08/06/2023,Western Province,Rutsiro,Broadband Systems Corporation,Mobile Money,Billing Dispute,Web Portal,Mobile money transfer deducted but recipient did not receive funds.,,female,Pending,,4
+RURA-ICT-00541,19/12/2023,Western Province,Rutsiro,Airtel Rwanda,Mobile Data/Internet,Customer Care Unresponsive,USSD,Internet speed far below advertised package.,41,F,Open,,4
+RURA-ICT-00811,20-May-2024,Northern Province,Burera,M.T.N Rwanda,Mobile Voice,Billing Dispute,Web Portal,Billed for services not subscribed to.,60,Other,OPEN,,2
+RURA-ICT-00153,2024-10-19,Eastern Province,Kayonza,Liquid Telecom Rwanda,Mobile Data/Internet,Customer Care Unresponsive,Social Media,Received unsolicited promotional SMS despite opt-out request.,25,M,OPEN,,4
+RURA-ICT-00547,04-Jun-2024,Western Province,Nyamasheke,airtel rwanda,Mobile Data/Internet,Network Outage,Web Portal,No network coverage since yesterday evening.,26,Other,closed,19,
+RURA-ICT-00320,03/04/2023,Kigali City,Kicukiro,Liquid Telecom Rwanda,Fixed Voice,Unsolicited SMS/Spam,Web Portal,Mobile money transfer deducted but recipient did not receive funds.,,Female,Open,,3
+RURA-ICT-00664,16/09/2023,Southern Province,Nyaruguru,Broadband Systems Corporation,Mobile Voice,Mobile Money Transaction Failure,Call Center,Received suspicious SMS asking for mobile money PIN.,-5,male,resolved,9,4
+RURA-ICT-00701,30-Apr-2024,Southern Province,Nyanza,Airtel,Mobile Money,Unsolicited SMS/Spam,Walk-in,Billed for services not subscribed to.,38,male,Open,,2
+RURA-ICT-00052,08-05-2024,Northern Province,Burera,Liquid Telecom Rwanda,Mobile Voice,Network Outage,Walk-in,Delay of over a week in activating new fixed internet line.,75,male,closed,30,
+RURA-ICT-00138,2023-09-11,Western Province,Nyamasheke,broadband systems,SMS,Unsolicited SMS/Spam,USSD,,83,female,Closed,18,
+RURA-ICT-00476,11-Jan-2023,Northern Province,musanze,AIRTEL,Mobile Data/Internet,SIM Registration Issue,USSD,Complainant charged twice for the same data bundle.,57,,Pending,,4
+RURA-ICT-00663,17/10/2024,Eastern Province,Rwamagana,Liquid Telecom,Mobile Voice,Customer Care Unresponsive,Walk-in,No network coverage since yesterday evening.,20,,Pending,,
+RURA-ICT-00081,02-22-2023,Western Province,Rutsiro,liquid telecom,Mobile Voice,Data Bundle Deduction Issue,Email,,61,F,resolved,6,
+RURA-ICT-00885,2023-10-28,Southern Province,Muhanga,liquid telecom,Mobile Money,Data Bundle Deduction Issue,Walk-in,Complainant charged twice for the same data bundle.,44,Other,resolved,7,3
+RURA-ICT-00307,04/10/2023,Eastern Province,Ngoma,Broadband Systems Corporation,SMS,Billing Dispute,USSD,Complainant charged twice for the same data bundle.,64,Female,Closed,30,4
+RURA-ICT-00898,10-Apr-2024,Western Province,Rusizi,MTN RWANDA,Mobile Data/Internet,Slow Internet Speed,Walk-in,SIM card registered under wrong national ID.,30,F,In Progress,11,
+RURA-ICT-00338,09-Oct-2024,Southern Province,Nyaruguru,Broadband Systems Corporation,Mobile Data/Internet,Service Activation Delay,USSD,Billed for services not subscribed to.,,M,Open,,-1
+RURA-ICT-00038,2023-01-20,Eastern Province,Ngoma,Liquid Telecom,Mobile Money,Data Bundle Deduction Issue,Email,Customer care line not answering after multiple attempts.,60,Female,open,,1
+RURA-ICT-00335,12-07-2024,Northern Province,Gicumbi,mtn rwanda,Mobile Data/Internet,Mobile Money Transaction Failure,Email,,81,Male,Open,,
+RURA-ICT-00797,2023-09-25,Western Province,Nyabihu,Liquid Telecom Rwanda,SMS,Mobile Money Transaction Failure,Email,Customer care line not answering after multiple attempts.,82,Male,Closed,14,3
+RURA-ICT-00159,11-Apr-2023,Western Province,Nyamasheke,broadband systems,Mobile Data/Internet,Poor Network Quality,USSD,Customer reports repeated call drops in Nyamasheke.,25,female,Resolved,19,4
+RURA-ICT-00445,31-May-2024,Northern Province,Burera,Liquid Telecom Rwanda,SMS,Network Outage,Web Portal,Mobile money transfer deducted but recipient did not receive funds.,39,Other,open,,1
+RURA-ICT-00092,2023-06-04,Kigali City,Kicukiro,,Mobile Data/Internet,SIM Registration Issue,USSD,Received unsolicited promotional SMS despite opt-out request.,59,F,Pending,,2
+RURA-ICT-00619,25/06/2024,Northern Province,Rulindo,Liquid Telecom Rwanda,Mobile Voice,Data Bundle Deduction Issue,Social Media,Complainant charged twice for the same data bundle.,78,M,Closed,21,
+RURA-ICT-00001,27-Aug-2024,Kigali City,Gasabo,Airtel,Mobile Data/Internet,Poor Network Quality,Web Portal,Complainant charged twice for the same data bundle.,,F,pending ,,
+RURA-ICT-00486,08/06/2024,Northern Province,musanze,liquid telecom,SMS,Billing Dispute,Email,SIM card registered under wrong national ID.,65,Other,open,,
+RURA-ICT-00515,2023-12-24,Southern Province,Gisagara,Airtel,Fixed Voice,Unsolicited SMS/Spam,Call Center,Received unsolicited promotional SMS despite opt-out request.,69,Other,open,,5
+RURA-ICT-00462,23/10/2024,Eastern Province,Kirehe,Liquid Telecom Rwanda,Fixed Voice,Mobile Money Transaction Failure,Social Media,Received suspicious SMS asking for mobile money PIN.,46,,closed,4,
+RURA-ICT-00275,05-28-2023,Northern Province,Gakenke,Airtel,Fixed Voice,Data Bundle Deduction Issue,USSD,Billed for services not subscribed to.,63,M,closed,17,
+RURA-ICT-00016,23-Jul-2024,Northern Province,Rulindo,MTN RWANDA,Mobile Money,Unsolicited SMS/Spam,Email,,53,Female,resolved,18,1
+RURA-ICT-00258,2024-02-24,Western Province,Rutsiro,liquid telecom,Mobile Voice,Network Outage,Walk-in,No network coverage since yesterday evening.,41,Female,Pending,,
+RURA-ICT-00218,14/08/2024,Northern Province,Rulindo,BSC,Mobile Money,Customer Care Unresponsive,Social Media,Customer care line not answering after multiple attempts.,25,M,open,,
+RURA-ICT-00094,25/03/2023,Kigali City,Nyarugenge,BSC,Mobile Money,Service Activation Delay,USSD,SIM card registered under wrong national ID.,55,,OPEN,,
+RURA-ICT-00558,02-28-2023,Eastern Province,Ngoma,Airtel,Mobile Money,Service Activation Delay,USSD,Customer care line not answering after multiple attempts.,37,female,open,,4
+RURA-ICT-00183,11-11-2024,Eastern Province,Kirehe,liquid telecom,Mobile Voice,Poor Network Quality,Web Portal,Billed for services not subscribed to.,84,,Pending,,
+RURA-ICT-00142,10-31-2024,Eastern Province,Bugesera,BSC,Mobile Voice,Service Activation Delay,Web Portal,No network coverage since yesterday evening.,84,,pending ,,2
+RURA-ICT-00493,2023-04-25,Southern Province,Nyamagabe,BSC,Mobile Voice,Billing Dispute,Walk-in,Mobile money transfer deducted but recipient did not receive funds.,40,M,Open,,
+RURA-ICT-00733,10-May-2023,Western Province,Rutsiro,MTN Rwanda,Fixed Voice,Mobile Money Transaction Failure,Call Center,Customer reports repeated call drops in Rutsiro.,21,female,open,,2
+RURA-ICT-00705,26-Nov-2024,Southern Province,Kamonyi,MTN,Fixed Internet,Service Activation Delay,Call Center,Billed for services not subscribed to.,83,Male,closed,21,3
+RURA-ICT-00495,2024-02-06,Eastern Province,Kirehe,MTN RWANDA,SMS,Mobile Money Transaction Failure,Walk-in,Delay of over a week in activating new fixed internet line.,29,,closed,27,5
+RURA-ICT-00741,05-08-2023,Kigali City,Nyarugenge,Liquid Telecom,Mobile Money,Service Activation Delay,Email,Customer reports repeated call drops in Nyarugenge.,57,male,In Progress,14,4
+RURA-ICT-00591,15-Jul-2024,Western Province,Rutsiro,REG-ICT,Mobile Data/Internet,Unsolicited SMS/Spam,Call Center,Billed for services not subscribed to.,73,F,closed,17,
+RURA-ICT-00654,02-19-2023,Northern Province,Gicumbi,M.T.N Rwanda,SMS,Network Outage,USSD,Customer reports repeated call drops in Gicumbi.,150,M,Pending,,3
+RURA-ICT-00574,02-29-2024,Western Province,Karongi,Liquid Telecom Rwanda,Mobile Money,SIM Registration Issue,Web Portal,Received unsolicited promotional SMS despite opt-out request.,45,female,Open,,2
+RURA-ICT-00557,09-Sep-2024,Southern Province,Nyanza,Airtel Rwanda,Fixed Voice,Customer Care Unresponsive,Walk-in,,,Female,Open,,
+RURA-ICT-00806,07/03/2024,Eastern Province,Kayonza,Liquid Telecom,Fixed Internet,Service Activation Delay,Social Media,Received suspicious SMS asking for mobile money PIN.,82,F,Open,,1
+RURA-ICT-00689,2024-09-19,Southern Province,Gisagara,Liquid Telecom,Fixed Internet,Poor Network Quality,USSD,Customer care line not answering after multiple attempts.,74,Other,Resolved,30,3
+RURA-ICT-00400,2023-09-23,Northern Province,Gakenke,Broadband Systems Corporation,SMS,Service Activation Delay,Call Center,,,F,Pending,,3
+RURA-ICT-00262,10-25-2023,Southern Province,Nyamagabe,,Mobile Data/Internet,Mobile Money Transaction Failure,Walk-in,,32,Male,In Progress,22,1
+RURA-ICT-00284,2024-08-24,Southern Province,Gisagara,,SMS,Billing Dispute,Social Media,SIM card registered under wrong national ID.,64,Female,resolved,11,3
+RURA-ICT-00807,29-Jan-2024,Southern Province,Nyanza,Broadband Systems Corporation,Mobile Data/Internet,SIM Registration Issue,Walk-in,Received unsolicited promotional SMS despite opt-out request.,,,In Progress,1,6
+RURA-ICT-00484,29-Sep-2024,Eastern Province,Kirehe,liquid telecom,Fixed Voice,Network Outage,Email,Billed for services not subscribed to.,32,Female,Open,,3
+RURA-ICT-00418,2024-07-25,Western Province,Karongi,broadband systems,Mobile Voice,Unsolicited SMS/Spam,Social Media,Complainant charged twice for the same data bundle.,68,Female,Closed,9,
+RURA-ICT-00128,07-13-2024,Southern Province,Ruhango,REG ICT,Mobile Money,Billing Dispute,Social Media,SIM card registered under wrong national ID.,49,Other,pending ,,
+RURA-ICT-00858,2024-04-26,Northern Province,Burera,REG-ICT,Mobile Data/Internet,Customer Care Unresponsive,Walk-in,,,Female,OPEN,,3
+RURA-ICT-00118,08-Sep-2023,Western Province,Ngororero,MTN RWANDA,Fixed Voice,Customer Care Unresponsive,Email,Customer care line not answering after multiple attempts.,25,M,closed,13,2
+RURA-ICT-00776,02/10/2023,Southern Province,Nyamagabe,Airtel Rwanda,Mobile Money,Slow Internet Speed,USSD,Customer reports repeated call drops in Nyamagabe.,78,Other,resolved,20,
+RURA-ICT-00651,18-Jun-2024,Western Province,Rutsiro,liquid telecom,Mobile Data/Internet,Data Bundle Deduction Issue,Walk-in,Complainant charged twice for the same data bundle.,32,Female,closed,1,
+RURA-ICT-00630,11-Mar-2023,Kigali City,GASABO,REG ICT,Mobile Money,Unsolicited SMS/Spam,Web Portal,Internet speed far below advertised package.,80,M,open,,
+RURA-ICT-00170,29/04/2023,Western Province,Rusizi,Liquid Telecom Rwanda,Fixed Internet,Poor Network Quality,Email,Complainant charged twice for the same data bundle.,59,Other,resolved,16,4
+RURA-ICT-00863,11/06/2024,Southern Province,Nyanza,BSC,Fixed Voice,Slow Internet Speed,Walk-in,Mobile money transfer deducted but recipient did not receive funds.,34,Female,OPEN,,1
+RURA-ICT-00144,2024-08-31,Kigali City,Gasabo,broadband systems,Mobile Voice,Mobile Money Transaction Failure,Walk-in,Complainant charged twice for the same data bundle.,22,Female,open,,4
+RURA-ICT-00492,14/01/2023,Western Province,Nyamasheke,MTN RWANDA,SMS,Network Outage,Call Center,Complainant charged twice for the same data bundle.,74,,resolved,30,4
+RURA-ICT-00386,10-Apr-2024,Kigali City,Gasabo,BSC,Fixed Voice,Slow Internet Speed,Social Media,No network coverage since yesterday evening.,73,,In Progress,5,1
+RURA-ICT-00900,05-14-2024,Southern Province,Nyaruguru,MTN RWANDA,Fixed Internet,Data Bundle Deduction Issue,Email,,66,M,Closed,14,
+RURA-ICT-00645,02-28-2024,Northern Province,Burera,BSC,Mobile Money,Unsolicited SMS/Spam,Social Media,,47,,Pending,,4
+RURA-ICT-00545,08-04-2023,Kigali City,Gasabo,MTN Rwanda,Fixed Voice,Billing Dispute,Social Media,SIM card registered under wrong national ID.,63,female,open,,5
+RURA-ICT-00127,27/02/2024,Western Province,Ngororero,MTN,Mobile Voice,Unsolicited SMS/Spam,Email,No network coverage since yesterday evening.,76,M,resolved,16,
+RURA-ICT-00828,27-Dec-2024,Northern Province,Burera,Broadband Systems Corporation,Mobile Money,Poor Network Quality,Email,Customer care line not answering after multiple attempts.,49,female,open,,
+RURA-ICT-00296,2024-09-03,Kigali City,Nyarugenge,BSC,SMS,Service Activation Delay,USSD,,38,Other,closed,6,5
+RURA-ICT-00690,2023-06-24,Western Province,Rubavu,MTN,Mobile Voice,SIM Registration Issue,Web Portal,Mobile money transfer deducted but recipient did not receive funds.,63,M,resolved,27,
+RURA-ICT-00524,22-Jul-2024,Western Province,Rusizi,airtel rwanda,SMS,Billing Dispute,Walk-in,Internet speed far below advertised package.,,Other,pending ,,5
+RURA-ICT-00424,02/03/2024,Kigali City,Gasabo,AIRTEL,Mobile Data/Internet,Mobile Money Transaction Failure,USSD,Received suspicious SMS asking for mobile money PIN.,69,Other,Open,,1
+RURA-ICT-00527,10/01/2023,Western Province,Nyamasheke,MTN,Fixed Voice,Network Outage,USSD,Customer reports repeated call drops in Nyamasheke.,78,,Pending,,1
+RURA-ICT-00799,21-Mar-2024,Western Province,Rusizi,MTN RWANDA,SMS,Unsolicited SMS/Spam,USSD,,47,male,In Progress,19,4
+RURA-ICT-00693,2023-03-21,Southern Province,Nyanza,liquid telecom,Mobile Data/Internet,Service Activation Delay,Web Portal,,23,Female,Closed,-2,4
+RURA-ICT-00861,24/12/2023,Western Province,Karongi,,SMS,Billing Dispute,Walk-in,Customer reports repeated call drops in Karongi.,-5,F,open,,4
+RURA-ICT-00192,2024-08-24,Western Province,Karongi,liquid telecom,Fixed Voice,Billing Dispute,Social Media,Customer reports repeated call drops in Karongi.,,Female,open,,
+RURA-ICT-00623,09-Jan-2023,Southern Province,Huye,Airtel Rwanda,Fixed Voice,SIM Registration Issue,Social Media,,52,Other,In Progress,13,
+RURA-ICT-00893,02-Dec-2024,Eastern Province,Gatsibo,mtn rwanda,Mobile Voice,Poor Network Quality,Social Media,,64,Other,In Progress,10,
+RURA-ICT-00434,29-Jun-2023,Southern Province,Nyanza,REG ICT,Mobile Voice,Network Outage,Social Media,Internet speed far below advertised package.,33,Female,closed,12,
+RURA-ICT-00529,10-02-2024,Kigali City,Gasabo,liquid telecom,Fixed Voice,SIM Registration Issue,Walk-in,Delay of over a week in activating new fixed internet line.,44,Female,open,,3
+RURA-ICT-00063,02-27-2023,Kigali City,Nyarugenge,MTN RWANDA,Mobile Data/Internet,Mobile Money Fraud/Scam,Call Center,SIM card registered under wrong national ID.,71,Male,Open,,
+RURA-ICT-00220,12-14-2024,Western Province,Karongi,Airtel Rwanda,Mobile Voice,SIM Registration Issue,Walk-in,Internet speed far below advertised package.,54,Female,Closed,12,4
+RURA-ICT-00520,08/07/2024,Eastern Province,Rwamagana,REG ICT,Fixed Internet,Mobile Money Fraud/Scam,Call Center,Complainant charged twice for the same data bundle.,39,male,open,,2
+RURA-ICT-00592,15/10/2023,Northern Province,Burera,MTN Rwanda,Fixed Internet,Network Outage,Walk-in,Internet speed far below advertised package.,76,F,Resolved,29,4
+RURA-ICT-00467,01-12-2024,Southern Province,Nyaruguru,broadband systems,Mobile Data/Internet,Mobile Money Fraud/Scam,Walk-in,Customer care line not answering after multiple attempts.,,M,Resolved,21,1
+RURA-ICT-00528,01/02/2024,Western Province,Rubavu,broadband systems,Mobile Voice,SIM Registration Issue,Social Media,SIM card registered under wrong national ID.,17,F,In Progress,29,
+RURA-ICT-00411,24/02/2023,Western Province,Rubavu,,Mobile Data/Internet,Unsolicited SMS/Spam,Web Portal,Received suspicious SMS asking for mobile money PIN.,35,Other,Closed,5,1
+RURA-ICT-00683,08-03-2024,Eastern Province,Nyagatare,liquid telecom,Mobile Voice,Slow Internet Speed,Social Media,Mobile money transfer deducted but recipient did not receive funds.,24,Other,resolved,1,3
+RURA-ICT-00755,01-Nov-2023,Eastern Province,Ngoma,Broadband Systems Corporation,SMS,Slow Internet Speed,Email,Mobile money transfer deducted but recipient did not receive funds.,82,,open,,
+RURA-ICT-00111,27/01/2023,Northern Province,Gakenke,Liquid Telecom,Mobile Money,Service Activation Delay,Email,Complainant charged twice for the same data bundle.,65,F,Closed,8,2
+RURA-ICT-00508,06-17-2024,Southern Province,Nyaruguru,airtel rwanda,Mobile Data/Internet,Poor Network Quality,USSD,Received suspicious SMS asking for mobile money PIN.,36,M,pending ,,
+RURA-ICT-00266,04/04/2024,Northern Province,Gicumbi,,Fixed Voice,Slow Internet Speed,Walk-in,Received suspicious SMS asking for mobile money PIN.,25,Male,Closed,23,4
+RURA-ICT-00121,08-09-2023,Eastern Province,Ngoma,Broadband Systems Corporation,Mobile Voice,Data Bundle Deduction Issue,USSD,Mobile money transfer deducted but recipient did not receive funds.,,male,Pending,,4
+RURA-ICT-00413,04-23-2023,Kigali City,Gasabo,,Mobile Money,Data Bundle Deduction Issue,Walk-in,Mobile money transfer deducted but recipient did not receive funds.,46,,Resolved,12,1
+RURA-ICT-00149,2023-02-10,Western Province,Ngororero,Airtel Rwanda,Mobile Money,Data Bundle Deduction Issue,Web Portal,Delay of over a week in activating new fixed internet line.,43,Other,In Progress,29,1
+RURA-ICT-00312,21/06/2023,Eastern Province,Ngoma,BSC,Fixed Voice,Slow Internet Speed,USSD,Internet speed far below advertised package.,32,Female,Pending,,1
+RURA-ICT-00580,2024-02-23,Eastern Province,Gatsibo,Liquid Telecom,Fixed Internet,Mobile Money Fraud/Scam,Web Portal,Complainant charged twice for the same data bundle.,31,,In Progress,5,
+RURA-ICT-00166,27/04/2023,Southern Province,Ruhango,REG-ICT,Mobile Money,Data Bundle Deduction Issue,Email,SIM card registered under wrong national ID.,85,Male,resolved,17,
+RURA-ICT-00035,2024-08-21,Eastern Province,Ngoma,REG ICT,Fixed Internet,Network Outage,Walk-in,Internet speed far below advertised package.,64,Other,resolved,999,
+RURA-ICT-00669,06-19-2024,Eastern Province,Gatsibo,BSC,Fixed Internet,SIM Registration Issue,Email,Internet speed far below advertised package.,38,Other,pending ,,2
+RURA-ICT-00436,11-Oct-2023,Southern Province,Nyaruguru,AIRTEL,Fixed Voice,Service Activation Delay,Walk-in,Complainant charged twice for the same data bundle.,24,female,Open,,5
+RURA-ICT-00640,2023-09-07,Eastern Province,Bugesera,REG ICT,Mobile Data/Internet,Mobile Money Fraud/Scam,Email,No network coverage since yesterday evening.,50,F,Pending,,
+RURA-ICT-00331,2024-06-15,Western Province,Nyamasheke,REG-ICT,Fixed Voice,Poor Network Quality,Email,Mobile money transfer deducted but recipient did not receive funds.,45,,open,,
+RURA-ICT-00337,13-Aug-2024,Northern Province,Rulindo,REG-ICT,SMS,Service Activation Delay,Email,,,M,Open,,3
+RURA-ICT-00834,2024-06-03,Northern Province,Burera,liquid telecom,Mobile Voice,Data Bundle Deduction Issue,Web Portal,SIM card registered under wrong national ID.,84,F,open,,1
+RURA-ICT-00505,2023-01-11,Eastern Province,Kirehe,,Mobile Money,Network Outage,Social Media,,150,,OPEN,,2
+RURA-ICT-00625,2023-04-04,Northern Province,Musanze,Liquid Telecom Rwanda,Mobile Data/Internet,Data Bundle Deduction Issue,Call Center,Mobile money transfer deducted but recipient did not receive funds.,83,male,In Progress,7,
+RURA-ICT-00866,14-Aug-2024,Kigali City,GASABO,M.T.N Rwanda,Fixed Internet,Unsolicited SMS/Spam,Email,Billed for services not subscribed to.,43,Other,Closed,17,3
+RURA-ICT-00250,17/12/2023,Northern Province,Burera,Liquid Telecom,Fixed Internet,Slow Internet Speed,Email,SIM card registered under wrong national ID.,67,Other,open,,
+RURA-ICT-00704,14/08/2023,Eastern Province,Rwamagana,liquid telecom,SMS,Service Activation Delay,Call Center,Internet speed far below advertised package.,19,Female,OPEN,,4
+RURA-ICT-00726,2024-08-05,Western Province,Rutsiro,Airtel Rwanda,Fixed Internet,Data Bundle Deduction Issue,Web Portal,Complainant charged twice for the same data bundle.,82,male,resolved,15,
+RURA-ICT-00514,11-07-2023,Southern Province,Gisagara,M.T.N Rwanda,Mobile Data/Internet,Poor Network Quality,Email,SIM card registered under wrong national ID.,34,Male,closed,13,
+RURA-ICT-00282,30-May-2023,Northern Province,Gakenke,AIRTEL,Mobile Data/Internet,Billing Dispute,USSD,Billed for services not subscribed to.,21,Female,In Progress,7,
+RURA-ICT-00646,07/03/2024,Western Province,Rutsiro,broadband systems,SMS,Mobile Money Transaction Failure,Social Media,Delay of over a week in activating new fixed internet line.,46,female,open,,
+RURA-ICT-00082,20-Aug-2023,Eastern Province,Kayonza,mtn rwanda,SMS,SIM Registration Issue,Call Center,Delay of over a week in activating new fixed internet line.,19,male,closed,999,3
+RURA-ICT-00829,24/05/2023,Eastern Province,Ngoma,broadband systems,Mobile Money,Slow Internet Speed,Email,Customer reports repeated call drops in Ngoma.,19,Female,In Progress,18,3
+RURA-ICT-00255,09-Aug-2024,Kigali City,Nyarugenge,AIRTEL,Fixed Internet,Mobile Money Transaction Failure,Call Center,Customer care line not answering after multiple attempts.,210,Other,Pending,,6
+RURA-ICT-00012,2024-10-08,Northern Province,Musanze District,REG-ICT,SMS,Mobile Money Transaction Failure,Call Center,,20,female,open,,
+RURA-ICT-00572,22-Aug-2024,Southern Province,Muhanga,liquid telecom,Fixed Internet,Poor Network Quality,Email,Delay of over a week in activating new fixed internet line.,45,M,Open,,
+RURA-ICT-00173,03/07/2024,Kigali City,Nyarugenge,Airtel,Mobile Money,Poor Network Quality,USSD,,41,Other,open,,
+RURA-ICT-00605,2023-06-15,Western Province,Karongi,Liquid Telecom Rwanda,Mobile Voice,Billing Dispute,USSD,Billed for services not subscribed to.,20,F,Closed,16,
+RURA-ICT-00463,06-13-2023,Northern Province,Gicumbi,BSC,SMS,Data Bundle Deduction Issue,Social Media,Mobile money transfer deducted but recipient did not receive funds.,49,male,Open,,2
+RURA-ICT-00242,2023-05-13,Southern Province,Kamonyi,MTN Rwanda,Fixed Voice,Mobile Money Transaction Failure,Walk-in,Received suspicious SMS asking for mobile money PIN.,55,Male,Resolved,1,
+RURA-ICT-00201,30/07/2023,Western Province,Nyamasheke,mtn rwanda,Mobile Voice,Service Activation Delay,Social Media,Complainant charged twice for the same data bundle.,23,Male,closed,2,
+RURA-ICT-00670,2023-10-18,Western Province,Rutsiro,AIRTEL,Fixed Internet,Mobile Money Fraud/Scam,Web Portal,Billed for services not subscribed to.,29,F,resolved,19,1
+RURA-ICT-00049,25/09/2024,Western Province,Nyamasheke,MTN,Mobile Voice,Customer Care Unresponsive,Social Media,Delay of over a week in activating new fixed internet line.,64,Other,In Progress,9,4
+RURA-ICT-00478,12/02/2023,Western Province,Rutsiro,BSC,Fixed Internet,Service Activation Delay,Email,Received unsolicited promotional SMS despite opt-out request.,80,Other,OPEN,,4
+RURA-ICT-00729,2023-12-04,Eastern Province,Ngoma,airtel rwanda,Mobile Voice,Billing Dispute,Walk-in,,25,M,pending ,,1
+RURA-ICT-00448,2024-11-05,Southern Province,Muhanga,MTN RWANDA,Fixed Voice,Poor Network Quality,Social Media,Received unsolicited promotional SMS despite opt-out request.,66,,Pending,,1
+RURA-ICT-00553,02-Jun-2023,Southern Province,Nyaruguru,broadband systems,Fixed Voice,Network Outage,Social Media,,42,Other,pending ,,
+RURA-ICT-00657,2024-09-17,Western Province,Nyabihu,Broadband Systems Corporation,Fixed Voice,Service Activation Delay,Social Media,Mobile money transfer deducted but recipient did not receive funds.,79,F,Closed,4,3
+RURA-ICT-00862,02-May-2024,Eastern Province,Bugesera,REG ICT,Mobile Data/Internet,Slow Internet Speed,Web Portal,Received suspicious SMS asking for mobile money PIN.,48,Male,Open,,-1
+RURA-ICT-00710,07-24-2023,Southern Province,Gisagara,AIRTEL,Fixed Voice,SIM Registration Issue,USSD,Billed for services not subscribed to.,41,male,OPEN,,6
+RURA-ICT-00008,06-25-2024,Kigali City,gasabo,broadband systems,Mobile Voice,Data Bundle Deduction Issue,Social Media,Customer care line not answering after multiple attempts.,17,F,In Progress,17,3
+RURA-ICT-00188,17/05/2023,Eastern Province,Rwamagana,MTN Rwanda,Mobile Money,SIM Registration Issue,Email,Internet speed far below advertised package.,,M,OPEN,,2
+RURA-ICT-00513,06-10-2023,Eastern Province,Kayonza,,Mobile Voice,Mobile Money Transaction Failure,Social Media,Customer reports repeated call drops in Kayonza.,31,,Pending,,
+RURA-ICT-00532,2024-03-13,Kigali City,Nyarugenge,,Mobile Money,Service Activation Delay,USSD,Customer reports repeated call drops in Nyarugenge.,57,,Pending,,4
+RURA-ICT-00691,24/06/2023,Kigali City,GASABO,mtn rwanda,Mobile Money,Slow Internet Speed,Social Media,,31,Male,closed,4,4
+RURA-ICT-00735,21-Dec-2023,Southern Province,Gisagara,airtel rwanda,Mobile Money,Customer Care Unresponsive,USSD,Customer reports repeated call drops in Gisagara.,78,male,open,,
+RURA-ICT-00658,2023-06-15,Western Province,Nyabihu,MTN RWANDA,Mobile Voice,Unsolicited SMS/Spam,Email,Received suspicious SMS asking for mobile money PIN.,62,female,OPEN,,
+RURA-ICT-00850,21-Apr-2024,Western Province,Karongi,,Mobile Data/Internet,Poor Network Quality,Web Portal,Received suspicious SMS asking for mobile money PIN.,35,female,resolved,20,4
+RURA-ICT-00013,29/04/2024,Northern Province,Gicumbi,Broadband Systems Corporation,SMS,Billing Dispute,Web Portal,Delay of over a week in activating new fixed internet line.,68,Female,In Progress,21,4
+RURA-ICT-00215,11-11-2023,Northern Province,Gakenke,REG ICT,Mobile Data/Internet,Service Activation Delay,USSD,Internet speed far below advertised package.,16,,OPEN,,5
+RURA-ICT-00892,19/07/2023,Southern Province,Nyanza,M.T.N Rwanda,Mobile Voice,Customer Care Unresponsive,Social Media,,38,Male,OPEN,,
+RURA-ICT-00521,03-01-2023,Southern Province,Nyaruguru,Airtel Rwanda,SMS,SIM Registration Issue,Walk-in,,56,Male,Open,,3
+RURA-ICT-00079,02-28-2024,Eastern Province,Rwamagana,M.T.N Rwanda,Fixed Voice,Mobile Money Transaction Failure,Social Media,Mobile money transfer deducted but recipient did not receive funds.,67,,Pending,,3
+RURA-ICT-00232,19/12/2023,Kigali City,Gasabo,REG ICT,Mobile Data/Internet,Unsolicited SMS/Spam,USSD,SIM card registered under wrong national ID.,49,F,pending ,,
+RURA-ICT-00371,2024-03-30,Northern Province,Gakenke,Liquid Telecom Rwanda,Mobile Voice,SIM Registration Issue,Call Center,Complainant charged twice for the same data bundle.,80,Male,Closed,29,5
+RURA-ICT-00238,12-06-2023,Northern Province,Gicumbi,MTN,Mobile Money,Mobile Money Transaction Failure,Web Portal,Internet speed far below advertised package.,53,Other,closed,15,
+RURA-ICT-00322,04/02/2023,Southern Province,Nyaruguru,MTN Rwanda,Fixed Voice,Mobile Money Transaction Failure,Social Media,Mobile money transfer deducted but recipient did not receive funds.,28,Female,Pending,,3
+RURA-ICT-00167,10-10-2024,Eastern Province,Gatsibo,AIRTEL,Mobile Money,Poor Network Quality,Social Media,No network coverage since yesterday evening.,35,,Pending,,1
+RURA-ICT-00237,25/07/2024,Western Province,Ngororero,broadband systems,Mobile Money,Customer Care Unresponsive,Email,Billed for services not subscribed to.,76,Male,OPEN,,5
+RURA-ICT-00239,01-26-2024,Western Province,Rutsiro,REG-ICT,Fixed Internet,Mobile Money Transaction Failure,USSD,Billed for services not subscribed to.,35,Male,open,,3
+RURA-ICT-00210,01-31-2023,Southern Province,Nyamagabe,BSC,Mobile Data/Internet,Network Outage,Email,Mobile money transfer deducted but recipient did not receive funds.,,Other,In Progress,24,2
+RURA-ICT-00181,02/11/2024,Western Province,Nyamasheke,,Mobile Voice,Billing Dispute,Social Media,Received suspicious SMS asking for mobile money PIN.,32,Female,Open,,
+RURA-ICT-00815,15/08/2023,Northern Province,Musanze,airtel rwanda,Mobile Money,Unsolicited SMS/Spam,USSD,Complainant charged twice for the same data bundle.,,female,Resolved,19,
+RURA-ICT-00671,02-03-2023,Eastern Province,Gatsibo,,Mobile Voice,Service Activation Delay,Social Media,Delay of over a week in activating new fixed internet line.,43,Female,pending ,,5
+RURA-ICT-00609,14/12/2024,Eastern Province,Gatsibo,Airtel,Mobile Voice,Service Activation Delay,Web Portal,Billed for services not subscribed to.,81,Male,closed,4,6
+RURA-ICT-00301,20-Nov-2023,Kigali City,Kicukiro,MTN RWANDA,Fixed Voice,Mobile Money Transaction Failure,Web Portal,,82,M,Closed,8,
+RURA-ICT-00890,10-10-2023,Eastern Province,Nyagatare,Liquid Telecom,Fixed Voice,Billing Dispute,Call Center,Complainant charged twice for the same data bundle.,19,Other,Resolved,24,4
+RURA-ICT-00098,04/03/2024,Northern Province,Gicumbi,REG ICT,Fixed Internet,Mobile Money Fraud/Scam,Social Media,Received unsolicited promotional SMS despite opt-out request.,33,male,pending ,,
+RURA-ICT-00410,11-05-2023,Northern Province,Gakenke,M.T.N Rwanda,Mobile Data/Internet,Unsolicited SMS/Spam,USSD,Billed for services not subscribed to.,46,Female,open,,
+RURA-ICT-00573,03/03/2023,Western Province,Nyabihu,mtn rwanda,Mobile Data/Internet,Data Bundle Deduction Issue,Walk-in,Complainant charged twice for the same data bundle.,53,Female,In Progress,6,2
+RURA-ICT-00707,25/07/2024,Kigali City,Kicukiro,AIRTEL,Fixed Voice,Billing Dispute,USSD,Delay of over a week in activating new fixed internet line.,52,F,closed,0,2
+RURA-ICT-00251,02/03/2023,Eastern Province,Gatsibo,BSC,Fixed Voice,Billing Dispute,Call Center,,77,Other,OPEN,,
+RURA-ICT-00602,2023-05-03,Eastern Province,Bugesera,BSC,Fixed Voice,Service Activation Delay,Social Media,Customer reports repeated call drops in Bugesera.,210,Female,Resolved,999,
+RURA-ICT-00641,21-Aug-2023,Kigali City,Gasabo,M.T.N Rwanda,Fixed Internet,Billing Dispute,Call Center,Customer reports repeated call drops in Gasabo.,61,male,Closed,28,1
+RURA-ICT-00190,09-06-2024,Southern Province,Muhanga,airtel rwanda,Fixed Voice,Poor Network Quality,Walk-in,Delay of over a week in activating new fixed internet line.,19,male,pending ,,
+RURA-ICT-00246,2023-04-18,Southern Province,Nyaruguru,M.T.N Rwanda,Mobile Money,Slow Internet Speed,USSD,Internet speed far below advertised package.,29,Other,OPEN,,
+RURA-ICT-00381,01-24-2024,Eastern Province,Kayonza,Liquid Telecom,Mobile Voice,Slow Internet Speed,Call Center,,23,F,In Progress,4,1
+RURA-ICT-00184,14/08/2024,Eastern Province,Bugesera,AIRTEL,Mobile Money,SIM Registration Issue,Email,Received unsolicited promotional SMS despite opt-out request.,78,female,Resolved,24,
+RURA-ICT-00860,01-27-2023,Northern Province,Gicumbi,broadband systems,Mobile Money,Mobile Money Fraud/Scam,USSD,Customer reports repeated call drops in Gicumbi.,,Other,Resolved,-2,1
+RURA-ICT-00407,04/05/2023,Kigali City,gasabo,MTN,Fixed Internet,SIM Registration Issue,Web Portal,SIM card registered under wrong national ID.,43,M,resolved,10,
+RURA-ICT-00736,2023-05-26,Northern Province,Gakenke,airtel rwanda,Fixed Voice,Customer Care Unresponsive,Walk-in,SIM card registered under wrong national ID.,72,Other,open,,1
+RURA-ICT-00469,21-Oct-2024,Southern Province,Nyanza,airtel rwanda,Mobile Data/Internet,Billing Dispute,Social Media,,51,F,Resolved,30,4
+RURA-ICT-00292,01/11/2024,Northern Province,Musanze,M.T.N Rwanda,SMS,Poor Network Quality,USSD,Internet speed far below advertised package.,56,,Open,,2
+RURA-ICT-00706,2023-12-18,Eastern Province,Nyagatare,Liquid Telecom,Mobile Data/Internet,Network Outage,USSD,,74,female,pending ,,
+RURA-ICT-00610,01-Dec-2024,Eastern Province,Rwamagana,REG-ICT,Mobile Voice,Mobile Money Fraud/Scam,Call Center,Complainant charged twice for the same data bundle.,,F,pending ,,3
+RURA-ICT-00650,2023-06-14,Southern Province,Nyanza,Airtel Rwanda,Fixed Voice,Network Outage,USSD,Received unsolicited promotional SMS despite opt-out request.,70,Other,OPEN,,3
+RURA-ICT-00349,08/07/2024,Southern Province,Nyamagabe,broadband systems,Mobile Data/Internet,Mobile Money Transaction Failure,Web Portal,Delay of over a week in activating new fixed internet line.,55,Male,OPEN,,2
+RURA-ICT-00358,07/06/2024,Northern Province,Musanze District,broadband systems,Mobile Money,Poor Network Quality,USSD,,64,M,resolved,29,2
+RURA-ICT-00186,02-10-2024,Southern Province,Nyanza,Liquid Telecom,Mobile Voice,SIM Registration Issue,Web Portal,Customer reports repeated call drops in Nyanza.,45,,OPEN,,1
+RURA-ICT-00395,22/11/2024,Southern Province,Gisagara,mtn rwanda,Fixed Voice,Slow Internet Speed,Social Media,,40,female,Pending,,2
+RURA-ICT-00302,08-12-2023,Kigali City,Kicukiro,Liquid Telecom Rwanda,SMS,Billing Dispute,Social Media,SIM card registered under wrong national ID.,40,Other,Resolved,7,3
+RURA-ICT-00647,05-23-2023,Kigali City,Kicukiro,REG ICT,Mobile Data/Internet,Poor Network Quality,Call Center,SIM card registered under wrong national ID.,69,Female,Resolved,7,
+RURA-ICT-00046,03/05/2023,Eastern Province,Ngoma,Liquid Telecom,Mobile Data/Internet,Poor Network Quality,Web Portal,SIM card registered under wrong national ID.,77,male,Closed,24,3
+RURA-ICT-00415,14-Apr-2024,Southern Province,Muhanga,M.T.N Rwanda,Mobile Voice,Mobile Money Fraud/Scam,Walk-in,Customer care line not answering after multiple attempts.,59,Female,open,,5
+RURA-ICT-00382,20/07/2023,Northern Province,Burera,broadband systems,Mobile Money,Data Bundle Deduction Issue,USSD,Customer care line not answering after multiple attempts.,56,male,In Progress,29,4
+RURA-ICT-00821,20/04/2024,Southern Province,Ruhango,Airtel,Fixed Internet,Mobile Money Fraud/Scam,Call Center,SIM card registered under wrong national ID.,28,,pending ,,4
+RURA-ICT-00229,2024-05-18,Northern Province,Musanze,Liquid Telecom,Mobile Voice,SIM Registration Issue,Email,Received suspicious SMS asking for mobile money PIN.,45,Male,closed,23,3
+RURA-ICT-00367,12-08-2023,Kigali City,Kicukiro,liquid telecom,SMS,SIM Registration Issue,Call Center,Billed for services not subscribed to.,19,Male,open,,
+RURA-ICT-00392,22-May-2024,Eastern Province,Kayonza,REG-ICT,Mobile Money,Poor Network Quality,Walk-in,No network coverage since yesterday evening.,46,Other,In Progress,5,
+RURA-ICT-00575,2024-03-28,Western Province,Rubavu,Airtel,SMS,Data Bundle Deduction Issue,USSD,No network coverage since yesterday evening.,,Other,Resolved,6,
+RURA-ICT-00519,03-28-2023,Western Province,Rusizi,mtn rwanda,Mobile Data/Internet,Mobile Money Transaction Failure,Web Portal,Customer care line not answering after multiple attempts.,21,Other,In Progress,0,2
+RURA-ICT-00221,2023-07-24,Northern Province,Musanze,Broadband Systems Corporation,Mobile Money,Service Activation Delay,Web Portal,Customer care line not answering after multiple attempts.,,Male,In Progress,2,1
+RURA-ICT-00593,26-Jan-2024,Kigali City,Nyarugenge,Liquid Telecom Rwanda,SMS,Slow Internet Speed,Call Center,Internet speed far below advertised package.,44,male,Resolved,2,
+RURA-ICT-00318,09-19-2024,Eastern Province,Bugesera,Broadband Systems Corporation,Mobile Money,Poor Network Quality,Social Media,Received unsolicited promotional SMS despite opt-out request.,84,male,Closed,27,
+RURA-ICT-00031,29/02/2024,Northern Province,Burera,MTN Rwanda,Mobile Data/Internet,Unsolicited SMS/Spam,USSD,Customer care line not answering after multiple attempts.,65,Other,open,,2
+RURA-ICT-00554,12-Jul-2023,Western Province,Nyabihu,REG ICT,Fixed Voice,Unsolicited SMS/Spam,Email,SIM card registered under wrong national ID.,69,Female,open,,5
+RURA-ICT-00437,2024-06-08,Eastern Province,Bugesera,liquid telecom,Fixed Voice,Unsolicited SMS/Spam,Web Portal,SIM card registered under wrong national ID.,36,M,open,,
+RURA-ICT-00253,2024-06-19,Southern Province,Huye,,SMS,Slow Internet Speed,Walk-in,Received unsolicited promotional SMS despite opt-out request.,47,Other,Resolved,21,2
+RURA-ICT-00568,02/09/2023,Eastern Province,Rwamagana,REG-ICT,Mobile Voice,Data Bundle Deduction Issue,Walk-in,SIM card registered under wrong national ID.,210,M,Closed,10,1
+RURA-ICT-00477,07/12/2023,Eastern Province,Gatsibo,REG ICT,Mobile Voice,Poor Network Quality,USSD,Customer reports repeated call drops in Gatsibo.,61,M,Open,,
+RURA-ICT-00034,22/05/2023,Eastern Province,Rwamagana,Liquid Telecom Rwanda,Mobile Money,SIM Registration Issue,Email,Complainant charged twice for the same data bundle.,35,Female,pending ,,
+RURA-ICT-00845,23-Aug-2024,Eastern Province,Rwamagana,broadband systems,Fixed Voice,Unsolicited SMS/Spam,Walk-in,Delay of over a week in activating new fixed internet line.,,M,closed,8,4
+RURA-ICT-00387,08-Feb-2023,Western Province,Karongi,airtel rwanda,Fixed Internet,Customer Care Unresponsive,USSD,Customer reports repeated call drops in Karongi.,30,Other,Resolved,2,
+RURA-ICT-00721,11-05-2024,Eastern Province,Kirehe,broadband systems,Fixed Voice,Billing Dispute,USSD,,57,female,pending ,,4
+RURA-ICT-00439,11-05-2023,Northern Province,Burera,M.T.N Rwanda,Mobile Data/Internet,Customer Care Unresponsive,Email,Billed for services not subscribed to.,62,F,Resolved,11,1
+RURA-ICT-00538,2024-03-14,Eastern Province,Kayonza,,SMS,Network Outage,Social Media,Customer care line not answering after multiple attempts.,19,Other,resolved,18,
+RURA-ICT-00336,09-20-2023,Eastern Province,Ngoma,Airtel,Mobile Money,SIM Registration Issue,USSD,Mobile money transfer deducted but recipient did not receive funds.,210,Female,Closed,23,6
+RURA-ICT-00473,07-23-2023,Northern Province,Musanze,,SMS,Service Activation Delay,Walk-in,Customer care line not answering after multiple attempts.,37,M,open,,4
+RURA-ICT-00494,19/04/2024,Northern Province,Burera,broadband systems,SMS,Mobile Money Transaction Failure,Call Center,,18,F,closed,4,4
+RURA-ICT-00124,30-Apr-2024,Western Province,Karongi,REG-ICT,Mobile Voice,Network Outage,Walk-in,,81,Male,Resolved,19,6
+RURA-ICT-00771,05/02/2024,Eastern Province,Rwamagana,M.T.N Rwanda,SMS,Billing Dispute,Call Center,,55,female,In Progress,23,
+RURA-ICT-00695,12-Oct-2023,Southern Province,Nyaruguru,broadband systems,SMS,Mobile Money Transaction Failure,Social Media,Complainant charged twice for the same data bundle.,55,F,Closed,28,
+RURA-ICT-00713,2023-02-25,Kigali City,Kicukiro,AIRTEL,Fixed Voice,Network Outage,Social Media,Customer care line not answering after multiple attempts.,,F,pending ,,1
+RURA-ICT-00770,07-May-2023,Southern Province,Gisagara,MTN,Fixed Voice,Mobile Money Transaction Failure,Call Center,,32,male,closed,2,
+RURA-ICT-00662,02-16-2024,Eastern Province,Rwamagana,MTN,Fixed Voice,Poor Network Quality,Social Media,Mobile money transfer deducted but recipient did not receive funds.,,female,resolved,15,
+RURA-ICT-00719,10/01/2023,Western Province,Karongi,mtn rwanda,Mobile Data/Internet,Unsolicited SMS/Spam,Web Portal,Received suspicious SMS asking for mobile money PIN.,80,Female,Pending,,5
+RURA-ICT-00825,2023-03-13,Western Province,Ngororero,M.T.N Rwanda,Mobile Money,Billing Dispute,Walk-in,,68,Other,Pending,,1
+RURA-ICT-00328,06-Mar-2023,Western Province,Karongi,Airtel Rwanda,SMS,SIM Registration Issue,USSD,SIM card registered under wrong national ID.,79,Male,Closed,10,3
+RURA-ICT-00870,11/10/2024,Southern Province,Kamonyi,REG-ICT,Mobile Money,Billing Dispute,Call Center,Billed for services not subscribed to.,35,,OPEN,,3
+RURA-ICT-00699,27-Sep-2024,Kigali City,Nyarugenge,Liquid Telecom Rwanda,Mobile Voice,Customer Care Unresponsive,Call Center,Mobile money transfer deducted but recipient did not receive funds.,28,Female,closed,28,4
+RURA-ICT-00604,2024-12-31,Western Province,Nyabihu,,Fixed Internet,Poor Network Quality,USSD,Received unsolicited promotional SMS despite opt-out request.,42,F,In Progress,19,1
+RURA-ICT-00152,06/08/2024,Western Province,Rutsiro,BSC,Mobile Data/Internet,Mobile Money Transaction Failure,Email,Internet speed far below advertised package.,59,male,Closed,15,4
+RURA-ICT-00696,12-27-2023,Kigali City,Gasabo ,airtel rwanda,Mobile Voice,Unsolicited SMS/Spam,Web Portal,Customer care line not answering after multiple attempts.,26,female,pending ,,2
+RURA-ICT-00429,12-23-2024,Northern Province,Rulindo,Liquid Telecom Rwanda,Mobile Voice,Customer Care Unresponsive,USSD,Billed for services not subscribed to.,53,Male,Resolved,23,4
+RURA-ICT-00841,10/06/2023,Western Province,Karongi,mtn rwanda,SMS,Mobile Money Transaction Failure,USSD,SIM card registered under wrong national ID.,37,Male,OPEN,,2
+RURA-ICT-00688,2023-12-12,Western Province,Rubavu,Liquid Telecom Rwanda,Fixed Internet,Network Outage,USSD,Customer reports repeated call drops in Rubavu.,,F,pending ,,4
+RURA-ICT-00512,13-Oct-2024,Western Province,Karongi,,SMS,Data Bundle Deduction Issue,Email,Customer care line not answering after multiple attempts.,78,,In Progress,4,4
+RURA-ICT-00537,2023-02-27,Eastern Province,Rwamagana,liquid telecom,Fixed Voice,Data Bundle Deduction Issue,Call Center,Billed for services not subscribed to.,64,,open,,
+RURA-ICT-00388,09-Sep-2023,Western Province,Nyabihu,Liquid Telecom,SMS,Poor Network Quality,USSD,Complainant charged twice for the same data bundle.,25,male,In Progress,28,1
+RURA-ICT-00496,28-Aug-2024,Western Province,Ngororero,REG ICT,Mobile Voice,Unsolicited SMS/Spam,Social Media,Received unsolicited promotional SMS despite opt-out request.,23,M,Pending,,3
+RURA-ICT-00552,11-06-2023,Kigali City,Gasabo,REG-ICT,Mobile Money,Mobile Money Transaction Failure,Web Portal,Received suspicious SMS asking for mobile money PIN.,33,male,Resolved,999,
+RURA-ICT-00886,01-13-2023,Kigali City,Kicukiro,Airtel,Mobile Data/Internet,Mobile Money Transaction Failure,Social Media,No network coverage since yesterday evening.,18,Other,Closed,13,5
+RURA-ICT-00716,07-13-2024,Eastern Province,Kirehe,MTN Rwanda,Mobile Money,Data Bundle Deduction Issue,Social Media,Mobile money transfer deducted but recipient did not receive funds.,72,F,OPEN,,1
+RURA-ICT-00757,19/04/2023,Southern Province,Ruhango,Broadband Systems Corporation,Mobile Data/Internet,Mobile Money Fraud/Scam,Email,,34,F,In Progress,26,2
+RURA-ICT-00560,2023-07-26,Northern Province,Gakenke,REG ICT,SMS,Mobile Money Transaction Failure,USSD,Received suspicious SMS asking for mobile money PIN.,73,F,Pending,,5
+RURA-ICT-00360,25-Aug-2024,Southern Province,Huye,broadband systems,Mobile Voice,Slow Internet Speed,Social Media,Mobile money transfer deducted but recipient did not receive funds.,72,F,Closed,0,
+RURA-ICT-00064,30/11/2024,Eastern Province,Nyagatare,Airtel,Mobile Data/Internet,Poor Network Quality,USSD,Delay of over a week in activating new fixed internet line.,34,Female,resolved,8,1
+RURA-ICT-00871,05-20-2023,Kigali City,Kicukiro,Liquid Telecom,SMS,Data Bundle Deduction Issue,Social Media,SIM card registered under wrong national ID.,,male,Pending,,3
+RURA-ICT-00097,09-17-2024,Northern Province,Rulindo,MTN RWANDA,Mobile Money,Service Activation Delay,Web Portal,Customer care line not answering after multiple attempts.,73,Female,Closed,9,4
+RURA-ICT-00846,06-04-2023,Southern Province,Nyanza,Broadband Systems Corporation,Fixed Voice,Poor Network Quality,Email,No network coverage since yesterday evening.,27,Other,resolved,18,3
+RURA-ICT-00278,04-06-2024,Northern Province,Burera,mtn rwanda,SMS,Poor Network Quality,Walk-in,Customer care line not answering after multiple attempts.,55,Male,Resolved,11,4
+RURA-ICT-00853,19/11/2023,Kigali City,Nyarugenge,REG-ICT,Mobile Data/Internet,Customer Care Unresponsive,Email,SIM card registered under wrong national ID.,41,male,open,,
+RURA-ICT-00074,01/08/2024,Kigali City,Nyarugenge,Airtel Rwanda,Mobile Voice,SIM Registration Issue,Walk-in,,,Female,OPEN,,2
+RURA-ICT-00135,30/10/2023,Eastern Province,Gatsibo,liquid telecom,Mobile Data/Internet,Network Outage,Web Portal,,67,,Resolved,2,1
+RURA-ICT-00490,08-Nov-2024,Southern Province,Nyamagabe,liquid telecom,Mobile Voice,Customer Care Unresponsive,Call Center,,39,,open,,
+RURA-ICT-00091,2023-10-21,Southern Province,Huye,mtn rwanda,Fixed Internet,Unsolicited SMS/Spam,Call Center,SIM card registered under wrong national ID.,27,,Open,,5
+RURA-ICT-00498,28-Oct-2023,Western Province,Rusizi,,Mobile Money,Slow Internet Speed,Web Portal,No network coverage since yesterday evening.,62,Other,Pending,,2
+RURA-ICT-00819,10-Apr-2023,Southern Province,Ruhango,AIRTEL,SMS,Billing Dispute,Social Media,Complainant charged twice for the same data bundle.,30,male,In Progress,5,4
+RURA-ICT-00260,01/07/2023,Kigali City,Nyarugenge,M.T.N Rwanda,Fixed Internet,Slow Internet Speed,Social Media,,32,F,pending ,,5
+RURA-ICT-00095,23-Oct-2024,Kigali City,Kicukiro,REG ICT,Fixed Voice,SIM Registration Issue,Walk-in,Complainant charged twice for the same data bundle.,18,female,pending ,,0
+RURA-ICT-00227,2024-08-19,Western Province,Rutsiro,Broadband Systems Corporation,Fixed Internet,Billing Dispute,Walk-in,Delay of over a week in activating new fixed internet line.,28,male,In Progress,28,4
+RURA-ICT-00032,2023-09-13,Kigali City,Gasabo,Airtel,Fixed Voice,Customer Care Unresponsive,Social Media,Received unsolicited promotional SMS despite opt-out request.,75,female,Open,,4
+RURA-ICT-00441,06-19-2024,Kigali City,Gasabo,BSC,Mobile Money,SIM Registration Issue,Walk-in,Delay of over a week in activating new fixed internet line.,54,M,Pending,,1
+RURA-ICT-00798,12-Jun-2023,Western Province,Karongi,REG-ICT,Mobile Money,Poor Network Quality,Web Portal,Customer reports repeated call drops in Karongi.,59,F,Resolved,11,6
+RURA-ICT-00304,12/02/2024,Western Province,Nyamasheke,broadband systems,Mobile Money,Unsolicited SMS/Spam,Walk-in,Received suspicious SMS asking for mobile money PIN.,32,M,pending ,,4
+RURA-ICT-00777,21-Mar-2023,Eastern Province,Gatsibo,broadband systems,SMS,Poor Network Quality,Call Center,,17,Male,resolved,3,
+RURA-ICT-00375,21/02/2023,Southern Province,Kamonyi,Airtel Rwanda,Mobile Money,Slow Internet Speed,Email,Customer care line not answering after multiple attempts.,,M,pending ,,
+RURA-ICT-00766,02-Oct-2023,Southern Province,Nyamagabe,BSC,Fixed Internet,Data Bundle Deduction Issue,Social Media,Customer reports repeated call drops in Nyamagabe.,59,M,closed,13,
+RURA-ICT-00241,15-Mar-2024,Northern Province,Gakenke,AIRTEL,Mobile Voice,Billing Dispute,USSD,Billed for services not subscribed to.,77,,resolved,-2,1
+RURA-ICT-00511,2023-03-25,Southern Province,Kamonyi,Liquid Telecom,Mobile Voice,Billing Dispute,Web Portal,Internet speed far below advertised package.,,Male,resolved,14,
+RURA-ICT-00756,08-11-2024,Eastern Province,Ngoma,Airtel,Mobile Voice,Mobile Money Transaction Failure,Social Media,Received suspicious SMS asking for mobile money PIN.,150,Male,pending ,,
+RURA-ICT-00564,18-Dec-2023,Northern Province,Gicumbi,Airtel Rwanda,Fixed Internet,Network Outage,Call Center,Internet speed far below advertised package.,66,M,Pending,,
+RURA-ICT-00254,2023-06-19,Western Province,Rutsiro,MTN Rwanda,Fixed Voice,Billing Dispute,USSD,Customer care line not answering after multiple attempts.,57,Female,Pending,,3
+RURA-ICT-00363,27/04/2024,Southern Province,Nyamagabe,Liquid Telecom,Mobile Voice,Data Bundle Deduction Issue,USSD,Received suspicious SMS asking for mobile money PIN.,51,female,open,,5
+RURA-ICT-00102,2023-05-05,Northern Province,Gakenke,,Fixed Internet,Poor Network Quality,Email,Received suspicious SMS asking for mobile money PIN.,74,F,Closed,28,5
+RURA-ICT-00727,2024-01-02,Western Province,Rutsiro,Liquid Telecom Rwanda,Mobile Data/Internet,Mobile Money Fraud/Scam,Email,,36,male,resolved,18,
+RURA-ICT-00793,2023-11-22,Kigali City,Nyarugenge,Broadband Systems Corporation,Mobile Voice,Poor Network Quality,Walk-in,No network coverage since yesterday evening.,17,Female,open,,4
+RURA-ICT-00099,06-14-2023,Eastern Province,Bugesera,liquid telecom,Mobile Voice,Customer Care Unresponsive,Call Center,Complainant charged twice for the same data bundle.,81,Male,closed,2,2
+RURA-ICT-00272,2023-12-06,Western Province,Nyabihu,broadband systems,Mobile Voice,Service Activation Delay,Walk-in,Customer care line not answering after multiple attempts.,-5,Male,Open,,5
+RURA-ICT-00666,14/11/2024,Eastern Province,Ngoma,REG ICT,Mobile Voice,Customer Care Unresponsive,USSD,Complainant charged twice for the same data bundle.,56,M,Closed,14,4
+RURA-ICT-00772,26-Oct-2023,Southern Province,Ruhango,Airtel Rwanda,Mobile Money,Service Activation Delay,USSD,Internet speed far below advertised package.,210,male,Pending,,5
+RURA-ICT-00199,20-Jul-2024,Kigali City,Gasabo,Broadband Systems Corporation,Fixed Internet,Mobile Money Fraud/Scam,Email,Complainant charged twice for the same data bundle.,,Female,Resolved,25,-1
+RURA-ICT-00629,09-25-2024,Western Province,Rubavu ,Airtel,Fixed Voice,Unsolicited SMS/Spam,Call Center,Received unsolicited promotional SMS despite opt-out request.,76,Female,open,,2
+RURA-ICT-00509,03-03-2023,Western Province,Rutsiro,Liquid Telecom Rwanda,Mobile Money,Data Bundle Deduction Issue,USSD,,80,female,open,,
+RURA-ICT-00852,08-11-2024,Northern Province,Gakenke,liquid telecom,Fixed Internet,Service Activation Delay,Web Portal,,35,Female,Closed,6,0
+RURA-ICT-00108,2023-11-25,Southern Province,Nyanza,Broadband Systems Corporation,Fixed Internet,Slow Internet Speed,Walk-in,Received suspicious SMS asking for mobile money PIN.,150,male,pending ,,4
+RURA-ICT-00120,06-13-2023,Northern Province,Burera,MTN Rwanda,Mobile Money,Data Bundle Deduction Issue,USSD,Mobile money transfer deducted but recipient did not receive funds.,56,Female,resolved,15,4
+RURA-ICT-00352,10-27-2024,Kigali City,Kicukiro,MTN RWANDA,Mobile Data/Internet,Customer Care Unresponsive,USSD,,65,Other,Pending,,2
+RURA-ICT-00406,2023-06-26,Northern Province,Rulindo,MTN RWANDA,SMS,Network Outage,Walk-in,Customer reports repeated call drops in Rulindo.,28,Other,OPEN,,5
+RURA-ICT-00222,07-09-2023,Southern Province,Nyaruguru,BSC,Fixed Voice,Mobile Money Fraud/Scam,Call Center,Internet speed far below advertised package.,63,Male,pending ,,3
+RURA-ICT-00002,14-Aug-2023,Western Province,Rutsiro,M.T.N Rwanda,Mobile Data/Internet,Service Activation Delay,Web Portal,Internet speed far below advertised package.,16,Male,pending ,,3
+RURA-ICT-00585,2024-05-29,Eastern Province,Kayonza,airtel rwanda,Mobile Data/Internet,Billing Dispute,Walk-in,No network coverage since yesterday evening.,43,Male,Pending,,
+RURA-ICT-00803,24/12/2024,Western Province,Ngororero,broadband systems,Mobile Data/Internet,Unsolicited SMS/Spam,Web Portal,Customer care line not answering after multiple attempts.,28,,resolved,24,4
+RURA-ICT-00368,04-16-2024,Southern Province,Ruhango,Broadband Systems Corporation,Fixed Voice,Billing Dispute,Social Media,Billed for services not subscribed to.,68,M,OPEN,,3
+RURA-ICT-00047,02-25-2023,Kigali City,GASABO,airtel rwanda,Mobile Voice,Customer Care Unresponsive,Walk-in,Customer reports repeated call drops in GASABO.,32,Other,closed,0,4
+RURA-ICT-00096,2023-04-14,Southern Province,Ruhango,Airtel,Mobile Data/Internet,Billing Dispute,Call Center,,32,,closed,5,5
+RURA-ICT-00084,2024-09-24,Southern Province,Nyamagabe,,Mobile Voice,Network Outage,Walk-in,,50,Other,OPEN,,4
+RURA-ICT-00762,2024-03-20,Eastern Province,Ngoma,Airtel,Fixed Voice,Poor Network Quality,USSD,Customer reports repeated call drops in Ngoma.,42,Male,Closed,999,5
+RURA-ICT-00143,24/08/2023,Kigali City,Gasabo,broadband systems,Fixed Voice,Customer Care Unresponsive,Social Media,Internet speed far below advertised package.,35,male,pending ,,
+RURA-ICT-00556,26/01/2024,Northern Province,Burera,liquid telecom,Fixed Voice,Slow Internet Speed,USSD,Internet speed far below advertised package.,24,,In Progress,3,6
+RURA-ICT-00125,12-26-2024,Western Province,Ngororero,liquid telecom,Mobile Money,Customer Care Unresponsive,USSD,Customer care line not answering after multiple attempts.,18,female,pending ,,1
+RURA-ICT-00109,2024-10-16,Northern Province,Rulindo,Liquid Telecom,Mobile Voice,SIM Registration Issue,USSD,Received suspicious SMS asking for mobile money PIN.,,,resolved,25,2
+RURA-ICT-00339,2024-09-01,Northern Province,Gicumbi,,Mobile Data/Internet,Billing Dispute,Call Center,Customer care line not answering after multiple attempts.,53,,resolved,10,
+RURA-ICT-00751,01/06/2024,Western Province,Nyamasheke,Liquid Telecom,Mobile Money,Poor Network Quality,Call Center,Internet speed far below advertised package.,41,Male,resolved,0,
+RURA-ICT-00692,05-16-2024,Eastern Province,Gatsibo,M.T.N Rwanda,SMS,Mobile Money Transaction Failure,USSD,Billed for services not subscribed to.,77,Female,Pending,,
+RURA-ICT-00073,12-03-2024,Kigali City,Nyarugenge,Liquid Telecom Rwanda,Fixed Internet,Unsolicited SMS/Spam,Walk-in,Complainant charged twice for the same data bundle.,61,M,Resolved,6,4
+RURA-ICT-00874,07-Nov-2024,Kigali City,Nyarugenge,liquid telecom,Mobile Voice,Service Activation Delay,USSD,Mobile money transfer deducted but recipient did not receive funds.,31,Other,Pending,,
+RURA-ICT-00014,22/04/2023,Eastern Province,Kirehe,MTN Rwanda,Mobile Voice,Data Bundle Deduction Issue,Web Portal,,84,Other,Resolved,5,
+RURA-ICT-00010,2023-09-04,Western Province,Rubavu,Broadband Systems Corporation,Mobile Voice,SIM Registration Issue,Email,Customer reports repeated call drops in Rubavu.,210,F,Closed,17,2
+RURA-ICT-00078,10-01-2024,Eastern Province,Rwamagana,mtn rwanda,SMS,Billing Dispute,Call Center,Received suspicious SMS asking for mobile money PIN.,83,male,OPEN,,5
+RURA-ICT-00090,10-12-2024,Kigali City,Gasabo,BSC,SMS,Slow Internet Speed,Social Media,Billed for services not subscribed to.,56,Male,In Progress,15,3
+RURA-ICT-00243,05-16-2024,Southern Province,Ruhango,,SMS,SIM Registration Issue,Social Media,SIM card registered under wrong national ID.,37,,OPEN,,
+RURA-ICT-00158,30-Dec-2024,Western Province,Rutsiro,MTN,Mobile Money,Network Outage,Walk-in,No network coverage since yesterday evening.,54,Male,In Progress,18,4
+RURA-ICT-00673,27/01/2023,Southern Province,Gisagara,broadband systems,Mobile Data/Internet,Network Outage,Social Media,Customer reports repeated call drops in Gisagara.,82,female,Open,,5
+RURA-ICT-00383,03-05-2023,Southern Province,Nyanza,REG-ICT,SMS,Customer Care Unresponsive,Social Media,Received suspicious SMS asking for mobile money PIN.,22,M,OPEN,,3
+RURA-ICT-00606,28-Oct-2023,Western Province,Rusizi,broadband systems,Mobile Voice,Mobile Money Transaction Failure,Email,Received unsolicited promotional SMS despite opt-out request.,78,female,Open,,3
+RURA-ICT-00077,2024-10-20,Western Province,Rubavu,Airtel Rwanda,Fixed Voice,Service Activation Delay,USSD,Customer care line not answering after multiple attempts.,,Other,closed,13,4
+RURA-ICT-00249,11-24-2024,Southern Province,Gisagara,Broadband Systems Corporation,Mobile Voice,Billing Dispute,Call Center,SIM card registered under wrong national ID.,30,F,closed,28,
+RURA-ICT-00110,2024-01-28,Kigali City,Gasabo,Broadband Systems Corporation,Mobile Data/Internet,Poor Network Quality,Walk-in,SIM card registered under wrong national ID.,73,female,Resolved,24,
+RURA-ICT-00132,02-May-2024,Southern Province,Ruhango,MTN,Mobile Voice,Customer Care Unresponsive,Walk-in,Billed for services not subscribed to.,52,female,resolved,1,1
+RURA-ICT-00024,01-Jul-2023,Western Province,Nyabihu,broadband systems,Fixed Voice,Billing Dispute,Walk-in,,,female,OPEN,,4
+RURA-ICT-00633,2023-08-18,Southern Province,Gisagara,airtel rwanda,Fixed Voice,Mobile Money Fraud/Scam,USSD,No network coverage since yesterday evening.,53,M,open,,3
+RURA-ICT-00522,19-May-2024,Southern Province,Nyaruguru,MTN Rwanda,Mobile Data/Internet,Mobile Money Transaction Failure,USSD,Mobile money transfer deducted but recipient did not receive funds.,50,M,In Progress,17,4
+RURA-ICT-00734,14/09/2023,Southern Province,Muhanga,REG ICT,Fixed Internet,Service Activation Delay,Call Center,Complainant charged twice for the same data bundle.,61,Female,open,,3
+RURA-ICT-00087,15-Mar-2024,Kigali City,Kicukiro,MTN RWANDA,Mobile Voice,Unsolicited SMS/Spam,Call Center,Delay of over a week in activating new fixed internet line.,69,male,Resolved,0,2
+RURA-ICT-00795,15-Dec-2024,Southern Province,Nyaruguru,Airtel,Mobile Money,Mobile Money Transaction Failure,Walk-in,Received suspicious SMS asking for mobile money PIN.,78,female,closed,11,5
+RURA-ICT-00597,04/08/2023,Eastern Province,Gatsibo,AIRTEL,Mobile Money,Data Bundle Deduction Issue,Call Center,No network coverage since yesterday evening.,22,Male,Resolved,23,2
+RURA-ICT-00274,03-30-2023,Western Province,Rubavu,mtn rwanda,SMS,Poor Network Quality,Email,Delay of over a week in activating new fixed internet line.,72,,closed,21,
+RURA-ICT-00289,2023-04-22,Southern Province,Ruhango,,Mobile Voice,Mobile Money Transaction Failure,Social Media,No network coverage since yesterday evening.,80,,resolved,19,
+RURA-ICT-00501,2023-06-04,Northern Province,Musanze,BSC,Mobile Money,SIM Registration Issue,Call Center,Received suspicious SMS asking for mobile money PIN.,72,Other,pending ,,1
+RURA-ICT-00198,26/11/2023,Kigali City,GASABO,Broadband Systems Corporation,Mobile Data/Internet,Network Outage,USSD,Mobile money transfer deducted but recipient did not receive funds.,56,male,resolved,18,5
+RURA-ICT-00182,09-10-2023,Eastern Province,Bugesera,airtel rwanda,Fixed Internet,Network Outage,Walk-in,Delay of over a week in activating new fixed internet line.,70,male,OPEN,,
+RURA-ICT-00355,2024-10-07,Northern Province,Gakenke,REG ICT,Fixed Voice,Network Outage,USSD,Received unsolicited promotional SMS despite opt-out request.,72,,resolved,24,4
+RURA-ICT-00136,04-02-2024,Northern Province,Burera,BSC,Mobile Data/Internet,Network Outage,Email,Mobile money transfer deducted but recipient did not receive funds.,54,M,resolved,11,1
+RURA-ICT-00351,09-18-2024,Eastern Province,Gatsibo,Liquid Telecom Rwanda,Mobile Data/Internet,Poor Network Quality,Walk-in,Customer reports repeated call drops in Gatsibo.,45,Female,OPEN,,
+RURA-ICT-00417,2024-03-03,Northern Province,Gicumbi,broadband systems,Mobile Data/Internet,Slow Internet Speed,Walk-in,Customer reports repeated call drops in Gicumbi.,,Other,In Progress,16,
+RURA-ICT-00435,2023-01-28,Eastern Province,Rwamagana,liquid telecom,Mobile Money,Unsolicited SMS/Spam,USSD,Mobile money transfer deducted but recipient did not receive funds.,54,Other,Pending,,
+RURA-ICT-00525,01-25-2024,Southern Province,Muhanga,MTN Rwanda,Fixed Internet,Mobile Money Fraud/Scam,USSD,Billed for services not subscribed to.,43,male,closed,-2,6
+RURA-ICT-00376,2024-12-31,Kigali City,Gasabo,AIRTEL,SMS,SIM Registration Issue,Email,Mobile money transfer deducted but recipient did not receive funds.,75,Male,Resolved,25,4
+RURA-ICT-00856,2023-09-19,Southern Province,Nyamagabe,Broadband Systems Corporation,Mobile Data/Internet,Poor Network Quality,USSD,Customer care line not answering after multiple attempts.,18,M,Resolved,13,1
+RURA-ICT-00385,2023-01-12,Western Province,Karongi,Liquid Telecom,Mobile Data/Internet,Mobile Money Fraud/Scam,Web Portal,No network coverage since yesterday evening.,34,Other,OPEN,,2
+RURA-ICT-00277,2024-11-18,Northern Province,Musanze District,M.T.N Rwanda,Fixed Internet,Service Activation Delay,USSD,Received suspicious SMS asking for mobile money PIN.,41,Other,open,,3
+RURA-ICT-00675,06-12-2023,Northern Province,Musanze,Airtel Rwanda,Fixed Voice,Slow Internet Speed,Social Media,Received unsolicited promotional SMS despite opt-out request.,27,M,closed,20,2
+RURA-ICT-00748,22-Feb-2023,Kigali City,Gasabo,,SMS,Data Bundle Deduction Issue,USSD,Received unsolicited promotional SMS despite opt-out request.,82,Other,open,,0
+RURA-ICT-00563,2024-02-26,Northern Province,Gicumbi,REG ICT,Fixed Voice,Poor Network Quality,Web Portal,Customer care line not answering after multiple attempts.,25,F,Closed,24,6
+RURA-ICT-00720,05-24-2023,Eastern Province,nyagatare,airtel rwanda,Fixed Voice,Slow Internet Speed,Email,,54,,Pending,,
+RURA-ICT-00900,2024-01-22,Southern Province,Muhanga,Broadband Systems Corporation,Mobile Money,Service Activation Delay,Social Media,Internet speed far below advertised package.,78,F,resolved,15,3
+RURA-ICT-00865,2024-01-30,Southern Province,Nyaruguru,liquid telecom,Mobile Data/Internet,Slow Internet Speed,Web Portal,,39,M,Open,,
+RURA-ICT-00310,2024-04-02,Western Province,Rutsiro,REG-ICT,Mobile Money,SIM Registration Issue,Email,Customer care line not answering after multiple attempts.,52,Other,pending ,,2
+RURA-ICT-00020,11-14-2024,Southern Province,Muhanga,broadband systems,Fixed Voice,Mobile Money Fraud/Scam,USSD,Customer reports repeated call drops in Muhanga.,29,Male,pending ,,
+RURA-ICT-00011,16-Nov-2023,Eastern Province,nyagatare,REG ICT,Mobile Data/Internet,Customer Care Unresponsive,Web Portal,,63,Other,Closed,14,
+RURA-ICT-00880,10-07-2024,Eastern Province,Bugesera,broadband systems,Mobile Voice,Mobile Money Transaction Failure,USSD,Customer reports repeated call drops in Bugesera.,210,M,OPEN,,3
+RURA-ICT-00033,23/09/2023,Western Province,Nyabihu,REG ICT,SMS,Unsolicited SMS/Spam,Walk-in,Customer care line not answering after multiple attempts.,51,Other,Pending,,3
+RURA-ICT-00708,2023-01-01,Southern Province,Nyanza,MTN RWANDA,Mobile Money,Network Outage,Social Media,Billed for services not subscribed to.,60,male,Resolved,16,5
+RURA-ICT-00341,2024-12-02,Western Province,Ngororero,REG-ICT,Mobile Data/Internet,Poor Network Quality,Email,SIM card registered under wrong national ID.,68,,resolved,6,-1
+RURA-ICT-00083,2023-05-26,Southern Province,Nyamagabe,MTN,Mobile Data/Internet,Slow Internet Speed,Web Portal,Complainant charged twice for the same data bundle.,0,,resolved,10,
+RURA-ICT-00470,03-06-2024,Southern Province,Nyaruguru,MTN,Fixed Voice,Mobile Money Fraud/Scam,USSD,SIM card registered under wrong national ID.,19,M,open,,2
+RURA-ICT-00694,16-Nov-2023,Northern Province,Rulindo,mtn rwanda,Mobile Data/Internet,Slow Internet Speed,USSD,SIM card registered under wrong national ID.,80,F,pending ,,2
+RURA-ICT-00042,05-Jul-2024,Eastern Province,Gatsibo,AIRTEL,Mobile Data/Internet,Customer Care Unresponsive,Web Portal,Delay of over a week in activating new fixed internet line.,50,female,closed,26,3
+RURA-ICT-00709,02-Feb-2023,Northern Province,Musanze,Airtel,Fixed Internet,Slow Internet Speed,Call Center,Mobile money transfer deducted but recipient did not receive funds.,47,,closed,30,3
+RURA-ICT-00444,14/06/2023,Northern Province,Gicumbi,MTN Rwanda,Mobile Data/Internet,Mobile Money Fraud/Scam,USSD,SIM card registered under wrong national ID.,24,F,Resolved,24,
+RURA-ICT-00460,02-16-2024,Western Province,Nyabihu,Liquid Telecom,Fixed Voice,Customer Care Unresponsive,Email,Internet speed far below advertised package.,74,Male,Closed,20,2
+RURA-ICT-00270,2023-10-17,Northern Province,Musanze,Liquid Telecom,Mobile Voice,Data Bundle Deduction Issue,Email,,63,Other,pending ,,3
+RURA-ICT-00314,03/10/2024,Northern Province,Musanze,BSC,Mobile Data/Internet,Mobile Money Transaction Failure,Web Portal,Customer care line not answering after multiple attempts.,37,M,closed,999,3
+RURA-ICT-00245,05-07-2023,Kigali City,Nyarugenge,MTN Rwanda,Fixed Voice,Poor Network Quality,Social Media,Internet speed far below advertised package.,35,Female,Pending,,1
+RURA-ICT-00054,04-26-2024,Western Province,Ngororero,BSC,Mobile Data/Internet,Slow Internet Speed,Social Media,Complainant charged twice for the same data bundle.,57,F,Pending,,3
+RURA-ICT-00171,2023-12-18,Kigali City,Kicukiro,BSC,Mobile Voice,Mobile Money Fraud/Scam,Call Center,Customer reports repeated call drops in Kicukiro.,37,Female,open,,5
+RURA-ICT-00327,2023-06-14,Northern Province,Gakenke,Liquid Telecom,Fixed Voice,Unsolicited SMS/Spam,Email,Received unsolicited promotional SMS despite opt-out request.,73,male,In Progress,17,1
+RURA-ICT-00502,2024-10-07,Kigali City,Nyarugenge,REG-ICT,SMS,Network Outage,USSD,No network coverage since yesterday evening.,62,Male,open,,4
+RURA-ICT-00792,01-04-2023,Kigali City,Kicukiro,REG-ICT,Fixed Voice,Customer Care Unresponsive,Social Media,Billed for services not subscribed to.,60,F,OPEN,,5
+RURA-ICT-00533,2023-08-18,Southern Province,Nyanza,REG ICT,Fixed Internet,SIM Registration Issue,USSD,,69,Other,Open,,6
+RURA-ICT-00287,04-Jul-2023,Kigali City,gasabo,Airtel Rwanda,SMS,Billing Dispute,Call Center,Received suspicious SMS asking for mobile money PIN.,18,male,OPEN,,2
+RURA-ICT-00526,12-17-2023,Kigali City,Gasabo,Liquid Telecom,Mobile Data/Internet,Slow Internet Speed,USSD,Billed for services not subscribed to.,73,male,Resolved,10,4
+RURA-ICT-00197,12/01/2024,Kigali City,Kicukiro,broadband systems,Mobile Money,Network Outage,Social Media,No network coverage since yesterday evening.,29,F,In Progress,16,
+RURA-ICT-00259,2024-10-10,Eastern Province,Kayonza,Broadband Systems Corporation,Fixed Voice,SIM Registration Issue,Call Center,Customer reports repeated call drops in Kayonza.,73,Other,resolved,30,4
+RURA-ICT-00374,2024-09-29,Southern Province,Ruhango,mtn rwanda,Mobile Data/Internet,Billing Dispute,Email,Customer reports repeated call drops in Ruhango.,60,female,open,,
+RURA-ICT-00830,29/10/2023,Southern Province,Muhanga,,Mobile Money,Unsolicited SMS/Spam,Web Portal,Billed for services not subscribed to.,32,Male,Pending,,4
+RURA-ICT-00752,25/01/2023,Eastern Province,Ngoma,,Fixed Internet,Poor Network Quality,Walk-in,Internet speed far below advertised package.,32,,Open,,3
+RURA-ICT-00017,2023-03-12,Southern Province,huye,,Mobile Data/Internet,Network Outage,USSD,No network coverage since yesterday evening.,46,,open,,
+RURA-ICT-00507,25-Sep-2024,Western Province,Rusizi,BSC,Fixed Voice,Mobile Money Transaction Failure,USSD,,67,Female,In Progress,2,
+RURA-ICT-00364,05-10-2024,Northern Province,Burera,REG-ICT,Mobile Voice,Slow Internet Speed,Web Portal,Complainant charged twice for the same data bundle.,56,male,pending ,,5
+RURA-ICT-00806,07/03/2024,Eastern Province,Kayonza,Liquid Telecom,Fixed Internet,Service Activation Delay,Social Media,Received suspicious SMS asking for mobile money PIN.,82,F,Open,,1
+RURA-ICT-00300,09-07-2023,Western Province,Nyabihu,REG ICT,Fixed Voice,Unsolicited SMS/Spam,Social Media,Customer care line not answering after multiple attempts.,74,Other,In Progress,27,
+RURA-ICT-00329,12/05/2024,Kigali City,Gasabo,MTN Rwanda,Mobile Data/Internet,Billing Dispute,Call Center,Complainant charged twice for the same data bundle.,210,Other,Closed,22,1
+RURA-ICT-00202,08/04/2023,Northern Province,Gakenke,broadband systems,Mobile Money,Unsolicited SMS/Spam,Web Portal,Delay of over a week in activating new fixed internet line.,66,F,open,,1
+RURA-ICT-00114,05-May-2024,Southern Province,Ruhango,REG-ICT,SMS,Poor Network Quality,Call Center,Internet speed far below advertised package.,25,Male,closed,20,
+RURA-ICT-00154,03-Mar-2023,Northern Province,Burera,MTN,Mobile Voice,Mobile Money Transaction Failure,USSD,SIM card registered under wrong national ID.,18,M,Pending,,4
+RURA-ICT-00404,30/08/2024,Eastern Province,Rwamagana,broadband systems,Mobile Data/Internet,Billing Dispute,Call Center,Customer reports repeated call drops in Rwamagana.,24,male,Closed,30,4
+RURA-ICT-00715,2023-03-10,Northern Province,Gicumbi,liquid telecom,Mobile Voice,Unsolicited SMS/Spam,USSD,Complainant charged twice for the same data bundle.,31,F,Closed,3,5
+RURA-ICT-00678,2024-05-17,Southern Province,Muhanga,MTN Rwanda,Fixed Internet,SIM Registration Issue,Walk-in,Complainant charged twice for the same data bundle.,78,F,resolved,13,3
+RURA-ICT-00182,29-Feb-2024,Southern Province,Kamonyi,BSC,Mobile Data/Internet,Slow Internet Speed,Web Portal,Billed for services not subscribed to.,27,,closed,8,3
+RURA-ICT-00071,2023-02-16,Kigali City,Nyarugenge,broadband systems,Mobile Money,Service Activation Delay,Social Media,No network coverage since yesterday evening.,79,F,open,,
+RURA-ICT-00379,27/09/2024,Southern Province,Nyanza,liquid telecom,Fixed Internet,Data Bundle Deduction Issue,USSD,Mobile money transfer deducted but recipient did not receive funds.,77,,resolved,6,5
+RURA-ICT-00672,21-Dec-2024,Eastern Province,Rwamagana,AIRTEL,Mobile Voice,SIM Registration Issue,Social Media,Billed for services not subscribed to.,,female,resolved,16,
+RURA-ICT-00348,03/11/2024,Eastern Province,Bugesera,M.T.N Rwanda,Mobile Money,Mobile Money Transaction Failure,Walk-in,Internet speed far below advertised package.,210,Female,Resolved,18,
+RURA-ICT-00353,18/11/2024,Northern Province,Burera,MTN RWANDA,Mobile Voice,Mobile Money Fraud/Scam,Social Media,,24,Male,Closed,14,4
+RURA-ICT-00814,16-Feb-2023,Southern Province,Ruhango,AIRTEL,Mobile Money,Billing Dispute,Email,Billed for services not subscribed to.,52,male,pending ,,
+RURA-ICT-00504,06/10/2024,Southern Province,Gisagara,REG-ICT,Mobile Voice,Mobile Money Fraud/Scam,Email,SIM card registered under wrong national ID.,83,,resolved,4,4
+RURA-ICT-00622,14-Feb-2024,Kigali City,Kicukiro,broadband systems,Fixed Internet,Service Activation Delay,Web Portal,SIM card registered under wrong national ID.,29,M,OPEN,,
+RURA-ICT-00459,2023-10-07,Western Province,Karongi,Airtel Rwanda,Fixed Voice,Slow Internet Speed,Call Center,SIM card registered under wrong national ID.,83,Other,In Progress,11,3
+RURA-ICT-00187,12-13-2024,Kigali City,Gasabo,Airtel,SMS,Service Activation Delay,Social Media,Customer reports repeated call drops in Gasabo.,70,Male,Open,,2
+RURA-ICT-00802,2024-03-23,Northern Province,Burera,airtel rwanda,Mobile Money,Poor Network Quality,Walk-in,Mobile money transfer deducted but recipient did not receive funds.,35,female,Closed,-2,4
+RURA-ICT-00599,01/11/2024,Western Province,Karongi,MTN,Mobile Money,Slow Internet Speed,Call Center,Customer care line not answering after multiple attempts.,72,Other,closed,4,
+RURA-ICT-00851,2024-02-04,Western Province,Nyabihu,Broadband Systems Corporation,Fixed Internet,Slow Internet Speed,Email,Delay of over a week in activating new fixed internet line.,,female,Open,,3
+RURA-ICT-00659,05-Aug-2024,Northern Province,Rulindo,Liquid Telecom,Mobile Money,Unsolicited SMS/Spam,Web Portal,Complainant charged twice for the same data bundle.,,male,OPEN,,5
+RURA-ICT-00601,05-15-2024,Western Province,Karongi,AIRTEL,Mobile Data/Internet,Network Outage,Call Center,Internet speed far below advertised package.,38,,Closed,25,1
+RURA-ICT-00805,15/02/2023,Western Province,Rutsiro,Broadband Systems Corporation,Fixed Voice,Mobile Money Transaction Failure,Walk-in,Mobile money transfer deducted but recipient did not receive funds.,27,female,Pending,,2
+RURA-ICT-00175,25-May-2023,Northern Province,Gicumbi,MTN,Mobile Money,Poor Network Quality,Walk-in,,33,,Resolved,15,2
+RURA-ICT-00489,2024-06-09,Northern Province,Gakenke,BSC,SMS,Network Outage,USSD,Customer reports repeated call drops in Gakenke.,68,F,open,,5
+RURA-ICT-00389,10-29-2023,Eastern Province,Kirehe,REG ICT,SMS,SIM Registration Issue,Social Media,,54,male,Resolved,15,5
+RURA-ICT-00485,03-Sep-2023,Southern Province,Huye,,Fixed Internet,Poor Network Quality,Social Media,No network coverage since yesterday evening.,0,Male,closed,12,
+RURA-ICT-00820,2024-01-07,Western Province,Karongi,Liquid Telecom Rwanda,Fixed Internet,Slow Internet Speed,Email,,56,,Resolved,12,4
+RURA-ICT-00139,27/11/2024,Western Province,Rutsiro,Airtel,Mobile Data/Internet,SIM Registration Issue,USSD,Complainant charged twice for the same data bundle.,78,F,Pending,,4
+RURA-ICT-00041,06-02-2024,Kigali City,Nyarugenge,mtn rwanda,SMS,Data Bundle Deduction Issue,Web Portal,Complainant charged twice for the same data bundle.,,,Resolved,3,3
+RURA-ICT-00855,2024-06-02,Eastern Province,Kirehe,Airtel,Fixed Internet,Slow Internet Speed,Call Center,No network coverage since yesterday evening.,42,F,open,,5
+RURA-ICT-00456,2023-06-23,Northern Province,Gicumbi,REG-ICT,Fixed Voice,Poor Network Quality,Email,SIM card registered under wrong national ID.,20,Other,open,,4
+RURA-ICT-00151,17-Nov-2023,Western Province,Karongi,Broadband Systems Corporation,Fixed Voice,Unsolicited SMS/Spam,Email,SIM card registered under wrong national ID.,,Female,Closed,0,
+RURA-ICT-00117,2023-03-25,Northern Province,Burera,,SMS,SIM Registration Issue,USSD,Customer reports repeated call drops in Burera.,49,Female,Open,,4
+RURA-ICT-00256,10-14-2024,Kigali City,Gasabo,M.T.N Rwanda,SMS,Network Outage,Call Center,Delay of over a week in activating new fixed internet line.,42,Other,In Progress,11,2
+RURA-ICT-00288,19/08/2024,Eastern Province,Nyagatare,Broadband Systems Corporation,Mobile Data/Internet,Data Bundle Deduction Issue,USSD,,81,male,OPEN,,
+RURA-ICT-00193,2024-02-16,Kigali City,Kicukiro,REG ICT,Fixed Voice,Customer Care Unresponsive,Social Media,,84,Male,resolved,9,
+RURA-ICT-00566,05/02/2024,Northern Province,Burera,M.T.N Rwanda,Mobile Voice,Billing Dispute,Email,Received unsolicited promotional SMS despite opt-out request.,,M,open,,2
+RURA-ICT-00648,2023-02-25,Northern Province,Musanze,AIRTEL,Fixed Voice,Network Outage,Web Portal,SIM card registered under wrong national ID.,25,Other,resolved,27,
+RURA-ICT-00163,25/01/2024,Eastern Province,Kirehe,M.T.N Rwanda,Mobile Data/Internet,Slow Internet Speed,USSD,Billed for services not subscribed to.,54,male,OPEN,,1
+RURA-ICT-00836,18-Aug-2024,Northern Province,Gakenke,Liquid Telecom Rwanda,Mobile Data/Internet,Mobile Money Transaction Failure,Walk-in,,84,M,In Progress,20,
+RURA-ICT-00731,2024-05-08,Kigali City,gasabo,,Fixed Internet,Service Activation Delay,Web Portal,Received unsolicited promotional SMS despite opt-out request.,64,Male,Open,,4
+RURA-ICT-00546,01-23-2024,Western Province,Karongi,MTN Rwanda,Mobile Data/Internet,Billing Dispute,Walk-in,Received unsolicited promotional SMS despite opt-out request.,70,Female,Closed,24,2
+RURA-ICT-00122,2024-02-15,Southern Province,Huye,Broadband Systems Corporation,Mobile Money,SIM Registration Issue,Social Media,Customer reports repeated call drops in Huye.,40,female,Resolved,2,4
+RURA-ICT-00426,05-10-2024,Eastern Province,Kirehe,liquid telecom,Mobile Data/Internet,Mobile Money Fraud/Scam,Walk-in,Mobile money transfer deducted but recipient did not receive funds.,22,Male,closed,14,5
+RURA-ICT-00168,2024-01-04,Eastern Province,Nyagatare,broadband systems,SMS,Data Bundle Deduction Issue,USSD,,47,female,Open,,
+RURA-ICT-00156,08-20-2023,Southern Province,Nyaruguru,mtn rwanda,Fixed Internet,Unsolicited SMS/Spam,USSD,,26,M,Closed,12,4
+RURA-ICT-00164,10-Sep-2023,Northern Province,Rulindo,Liquid Telecom,Mobile Money,Unsolicited SMS/Spam,Call Center,Received suspicious SMS asking for mobile money PIN.,41,Other,Resolved,9,
+RURA-ICT-00576,2024-06-03,Northern Province,Burera,Airtel Rwanda,Mobile Data/Internet,Slow Internet Speed,USSD,Mobile money transfer deducted but recipient did not receive funds.,75,male,Closed,6,
+RURA-ICT-00104,14-Feb-2023,Kigali City,Nyarugenge,,SMS,Customer Care Unresponsive,Call Center,Customer care line not answering after multiple attempts.,48,M,resolved,2,1
+RURA-ICT-00311,06-15-2023,Northern Province,Gicumbi,broadband systems,SMS,Slow Internet Speed,Social Media,Complainant charged twice for the same data bundle.,56,male,open,,5
+RURA-ICT-00297,2023-06-23,Southern Province,Kamonyi,M.T.N Rwanda,SMS,Customer Care Unresponsive,Web Portal,Delay of over a week in activating new fixed internet line.,16,Male,Closed,8,3
+RURA-ICT-00872,14/06/2023,Northern Province,Gakenke,REG-ICT,Mobile Voice,Data Bundle Deduction Issue,Walk-in,Customer care line not answering after multiple attempts.,36,,OPEN,,2
+RURA-ICT-00347,12-27-2023,Western Province,Nyamasheke,Liquid Telecom,Fixed Internet,Billing Dispute,Call Center,Billed for services not subscribed to.,46,male,Resolved,20,
+RURA-ICT-00487,2024-03-12,Western Province,Karongi,MTN RWANDA,Mobile Money,Slow Internet Speed,Walk-in,Billed for services not subscribed to.,,female,resolved,21,
+RURA-ICT-00458,08-Jan-2024,Northern Province,Gicumbi,broadband systems,Fixed Voice,SIM Registration Issue,Walk-in,Received suspicious SMS asking for mobile money PIN.,25,Female,In Progress,1,
+RURA-ICT-00598,05-Feb-2024,Kigali City,Nyarugenge,BSC,Fixed Internet,Service Activation Delay,Social Media,,,male,Resolved,29,
+RURA-ICT-00680,14/06/2024,Northern Province,Gakenke,Liquid Telecom Rwanda,Mobile Data/Internet,Slow Internet Speed,Call Center,Customer reports repeated call drops in Gakenke.,62,F,pending ,,1
+RURA-ICT-00714,24/02/2023,Southern Province,Ruhango,Liquid Telecom Rwanda,Mobile Voice,Slow Internet Speed,Web Portal,,79,Male,pending ,,
+RURA-ICT-00372,07-Feb-2023,Southern Province,Nyamagabe,Airtel Rwanda,SMS,Service Activation Delay,Walk-in,,82,F,Closed,-2,5
+RURA-ICT-00068,07-06-2024,Kigali City,Kicukiro,liquid telecom,Fixed Internet,Billing Dispute,Walk-in,,50,Male,OPEN,,
+RURA-ICT-00724,26/07/2023,Western Province,Rutsiro,Airtel,Mobile Money,Unsolicited SMS/Spam,Social Media,Mobile money transfer deducted but recipient did not receive funds.,83,Female,closed,0,1
+RURA-ICT-00723,2024-10-08,Kigali City,Gasabo,MTN Rwanda,Fixed Voice,Poor Network Quality,Social Media,Delay of over a week in activating new fixed internet line.,57,F,Resolved,12,
+RURA-ICT-00687,06-25-2023,Kigali City,Kicukiro,Broadband Systems Corporation,Mobile Money,Data Bundle Deduction Issue,Call Center,Customer care line not answering after multiple attempts.,46,M,open,,
+RURA-ICT-00208,05/02/2023,Eastern Province,Kayonza,Liquid Telecom Rwanda,Mobile Data/Internet,Mobile Money Fraud/Scam,Email,No network coverage since yesterday evening.,79,,Pending,,4
+RURA-ICT-00366,25/12/2023,Eastern Province,Gatsibo,MTN,SMS,Data Bundle Deduction Issue,Social Media,SIM card registered under wrong national ID.,,Female,Open,,3
+RURA-ICT-00321,30-Sep-2023,Eastern Province,Ngoma,broadband systems,Mobile Voice,SIM Registration Issue,Call Center,Customer reports repeated call drops in Ngoma.,,Other,OPEN,,
+RURA-ICT-00093,17-Oct-2023,Kigali City,Gasabo,broadband systems,SMS,Slow Internet Speed,Walk-in,SIM card registered under wrong national ID.,59,M,Resolved,20,3
+RURA-ICT-00340,20/03/2024,Western Province,Ngororero,M.T.N Rwanda,Fixed Internet,Mobile Money Fraud/Scam,Call Center,Received unsolicited promotional SMS despite opt-out request.,77,Female,resolved,20,5
+RURA-ICT-00055,04-01-2023,Eastern Province,Gatsibo,BSC,Fixed Voice,Data Bundle Deduction Issue,USSD,Customer care line not answering after multiple attempts.,30,,Open,,1
+RURA-ICT-00009,2023-07-02,Kigali City,Kicukiro,Broadband Systems Corporation,Fixed Internet,Network Outage,Web Portal,Received unsolicited promotional SMS despite opt-out request.,54,Female,closed,24,
+RURA-ICT-00769,2023-02-06,Northern Province,Gicumbi,Liquid Telecom,Mobile Data/Internet,Customer Care Unresponsive,Web Portal,Customer reports repeated call drops in Gicumbi.,83,F,Closed,25,2
+RURA-ICT-00088,2024-02-15,Western Province,Karongi,Liquid Telecom Rwanda,Fixed Internet,Poor Network Quality,Walk-in,Delay of over a week in activating new fixed internet line.,55,female,resolved,24,
+RURA-ICT-00837,09-Aug-2023,Eastern Province,Rwamagana,Broadband Systems Corporation,Fixed Internet,Mobile Money Transaction Failure,Call Center,Delay of over a week in activating new fixed internet line.,17,,pending ,,1
+RURA-ICT-00100,2024-01-31,Eastern Province,Ngoma,MTN RWANDA,Mobile Voice,Data Bundle Deduction Issue,USSD,Mobile money transfer deducted but recipient did not receive funds.,19,female,Resolved,26,3
+RURA-ICT-00809,05-May-2023,Southern Province,Gisagara,AIRTEL,Fixed Internet,Network Outage,Social Media,Customer reports repeated call drops in Gisagara.,22,female,closed,10,1
+RURA-ICT-00810,2023-11-01,Western Province,Nyamasheke,airtel rwanda,Mobile Money,Data Bundle Deduction Issue,Call Center,SIM card registered under wrong national ID.,61,M,Pending,,4
+RURA-ICT-00544,28/06/2023,Southern Province,Ruhango,airtel rwanda,Mobile Voice,Network Outage,Walk-in,Received suspicious SMS asking for mobile money PIN.,38,female,Closed,7,
+RURA-ICT-00790,04-10-2023,Northern Province,Burera,MTN RWANDA,Mobile Voice,Network Outage,Social Media,SIM card registered under wrong national ID.,40,M,Open,,3
+RURA-ICT-00626,10-03-2023,Eastern Province,Kirehe,M.T.N Rwanda,Fixed Internet,Service Activation Delay,Call Center,Complainant charged twice for the same data bundle.,60,,closed,28,
+RURA-ICT-00324,2023-09-06,Eastern Province,Ngoma,MTN,Mobile Money,Slow Internet Speed,Call Center,,76,Male,resolved,2,
+RURA-ICT-00499,27/06/2023,Western Province,Rusizi,liquid telecom,Fixed Voice,Poor Network Quality,Web Portal,No network coverage since yesterday evening.,78,F,Pending,,4
+RURA-ICT-00134,18-May-2023,Western Province,Rubavu,Liquid Telecom,Fixed Internet,Service Activation Delay,USSD,Customer care line not answering after multiple attempts.,30,female,pending ,,
+RURA-ICT-00831,09-23-2023,Southern Province,Kamonyi,MTN,SMS,Mobile Money Fraud/Scam,Walk-in,Customer reports repeated call drops in Kamonyi.,82,,In Progress,28,
+RURA-ICT-00480,18/05/2024,Western Province,Nyabihu,liquid telecom,Mobile Money,Data Bundle Deduction Issue,Walk-in,,72,M,Resolved,1,
+RURA-ICT-00325,2023-06-07,Eastern Province,Rwamagana,REG ICT,Fixed Voice,Network Outage,Call Center,Billed for services not subscribed to.,45,female,Resolved,25,3
+RURA-ICT-00422,30-May-2024,Western Province,Rubavu,,Mobile Data/Internet,Mobile Money Transaction Failure,Email,Received suspicious SMS asking for mobile money PIN.,24,female,Resolved,15,1
+RURA-ICT-00155,2023-07-03,Kigali City,Gasabo,liquid telecom,Mobile Money,Network Outage,USSD,,83,Male,resolved,19,3
+RURA-ICT-00203,12-01-2023,Eastern Province,Gatsibo,Airtel,Mobile Money,Mobile Money Fraud/Scam,Email,,45,F,resolved,4,5
+RURA-ICT-00589,14/10/2023,Kigali City,Kicukiro,broadband systems,Mobile Data/Internet,Network Outage,USSD,Received unsolicited promotional SMS despite opt-out request.,76,,open,,1
+RURA-ICT-00759,2023-10-13,Southern Province,Nyanza,MTN RWANDA,Fixed Internet,Unsolicited SMS/Spam,Email,No network coverage since yesterday evening.,26,Female,open,,3
+RURA-ICT-00657,2024-09-17,Western Province,Nyabihu,Broadband Systems Corporation,Fixed Voice,Service Activation Delay,Social Media,Mobile money transfer deducted but recipient did not receive funds.,79,F,Closed,4,3
+RURA-ICT-00160,10-Jul-2023,Southern Province,Huye,BSC,Mobile Data/Internet,SIM Registration Issue,USSD,Internet speed far below advertised package.,150,Female,resolved,2,
+RURA-ICT-00818,09/06/2023,Western Province,Nyamasheke,Liquid Telecom,Mobile Money,Unsolicited SMS/Spam,Web Portal,Customer reports repeated call drops in Nyamasheke.,71,,Pending,,1
+RURA-ICT-00280,2024-06-03,Southern Province,Muhanga,REG-ICT,Mobile Money,Service Activation Delay,Call Center,Customer reports repeated call drops in Muhanga.,67,Female,open,,5
+RURA-ICT-00177,2023-06-21,Eastern Province,Nyagatare,BSC,Fixed Voice,Unsolicited SMS/Spam,Social Media,Customer care line not answering after multiple attempts.,44,male,Pending,,
+RURA-ICT-00684,28/04/2023,Western Province,Karongi,liquid telecom,Fixed Voice,Customer Care Unresponsive,Email,Customer reports repeated call drops in Karongi.,70,Male,resolved,2,
+RURA-ICT-00582,15/08/2024,Northern Province,Gicumbi,REG ICT,Fixed Voice,Billing Dispute,Email,Delay of over a week in activating new fixed internet line.,,F,Closed,29,5
+RURA-ICT-00800,2024-08-30,Southern Province,Huye,Airtel Rwanda,Fixed Internet,Data Bundle Deduction Issue,Email,Internet speed far below advertised package.,37,male,In Progress,30,5
+RURA-ICT-00212,05-19-2024,Western Province,Rubavu,liquid telecom,SMS,Billing Dispute,USSD,,20,F,Closed,19,
+RURA-ICT-00025,04-16-2024,Northern Province,Gicumbi,Airtel Rwanda,Fixed Internet,Network Outage,Social Media,Mobile money transfer deducted but recipient did not receive funds.,45,Female,Closed,-2,3
+RURA-ICT-00454,27-Feb-2023,Western Province,Ngororero,,Fixed Internet,Unsolicited SMS/Spam,USSD,Received unsolicited promotional SMS despite opt-out request.,64,female,OPEN,,3
+RURA-ICT-00185,14/03/2024,Kigali City,Nyarugenge,Broadband Systems Corporation,Mobile Voice,Billing Dispute,Social Media,Customer reports repeated call drops in Nyarugenge.,32,male,Pending,,
+RURA-ICT-00768,02/07/2024,Southern Province,Nyamagabe,REG-ICT,Fixed Voice,Network Outage,USSD,SIM card registered under wrong national ID.,84,,Closed,7,
+RURA-ICT-00530,15-Oct-2024,Kigali City,Kicukiro,broadband systems,Fixed Voice,Slow Internet Speed,Walk-in,Mobile money transfer deducted but recipient did not receive funds.,51,Other,Open,,
+RURA-ICT-00394,2024-11-30,Western Province,Nyabihu,Broadband Systems Corporation,Mobile Money,Unsolicited SMS/Spam,Social Media,Received unsolicited promotional SMS despite opt-out request.,150,,Resolved,20,3
+RURA-ICT-00732,18-Dec-2023,Western Province,Rusizi,MTN RWANDA,Mobile Voice,Slow Internet Speed,Email,Mobile money transfer deducted but recipient did not receive funds.,46,Female,Resolved,0,
+RURA-ICT-00161,12-Nov-2023,Eastern Province,Gatsibo,AIRTEL,Mobile Money,SIM Registration Issue,Call Center,Customer reports repeated call drops in Gatsibo.,50,F,open,,
+RURA-ICT-00565,26/03/2023,Kigali City,Nyarugenge,airtel rwanda,Fixed Voice,Unsolicited SMS/Spam,Social Media,Complainant charged twice for the same data bundle.,72,Male,Pending,,3
+RURA-ICT-00745,28-Nov-2024,Eastern Province,Rwamagana,REG-ICT,Mobile Data/Internet,Mobile Money Transaction Failure,Email,SIM card registered under wrong national ID.,,,In Progress,4,
+RURA-ICT-00737,03-03-2023,Eastern Province,Bugesera,mtn rwanda,Mobile Money,Slow Internet Speed,Social Media,Complainant charged twice for the same data bundle.,65,Other,closed,999,1
+RURA-ICT-00205,02-20-2023,Kigali City,Gasabo,Liquid Telecom Rwanda,Mobile Voice,Mobile Money Transaction Failure,Email,Received unsolicited promotional SMS despite opt-out request.,38,M,resolved,27,5
+RURA-ICT-00053,2023-09-14,Western Province,Karongi,Broadband Systems Corporation,SMS,Network Outage,Social Media,Delay of over a week in activating new fixed internet line.,-5,male,Resolved,24,4
+RURA-ICT-00423,2024-11-20,Eastern Province,Gatsibo,,SMS,Mobile Money Fraud/Scam,Social Media,SIM card registered under wrong national ID.,74,F,In Progress,28,
+RURA-ICT-00639,2023-01-10,Northern Province,Burera,mtn rwanda,Mobile Data/Internet,Service Activation Delay,USSD,,59,F,Open,,
+RURA-ICT-00794,24-Feb-2023,Kigali City,Nyarugenge,airtel rwanda,Fixed Voice,Service Activation Delay,Walk-in,Received suspicious SMS asking for mobile money PIN.,38,male,OPEN,,
+RURA-ICT-00750,04/03/2024,Western Province,Rutsiro,mtn rwanda,Fixed Voice,Unsolicited SMS/Spam,USSD,Customer care line not answering after multiple attempts.,32,Female,Closed,13,2
+RURA-ICT-00668,01-15-2024,Northern Province,Gakenke,Broadband Systems Corporation,Mobile Money,Mobile Money Transaction Failure,Walk-in,Customer reports repeated call drops in Gakenke.,,male,In Progress,27,
+RURA-ICT-00556,26/01/2024,Northern Province,Burera,liquid telecom,Fixed Voice,Slow Internet Speed,USSD,Internet speed far below advertised package.,24,,In Progress,3,6
+RURA-ICT-00852,08-11-2024,Northern Province,Gakenke,liquid telecom,Fixed Internet,Service Activation Delay,Web Portal,,35,Female,Closed,6,0
+RURA-ICT-00482,30/07/2024,Kigali City,Kicukiro,MTN,Mobile Money,Billing Dispute,Walk-in,Received suspicious SMS asking for mobile money PIN.,16,Male,pending ,,1
+RURA-ICT-00145,08-12-2024,Eastern Province,Kayonza,REG-ICT,Mobile Voice,Billing Dispute,USSD,Mobile money transfer deducted but recipient did not receive funds.,57,Female,closed,4,5
+RURA-ICT-00403,10-Feb-2023,Southern Province,Nyamagabe,MTN RWANDA,Mobile Money,Service Activation Delay,Walk-in,Received unsolicited promotional SMS despite opt-out request.,54,,OPEN,,3
+RURA-ICT-00219,2023-03-18,Southern Province,Gisagara,MTN Rwanda,Mobile Money,Billing Dispute,Social Media,,77,M,OPEN,,2
+RURA-ICT-00315,28-Aug-2024,Eastern Province,Kirehe,REG ICT,SMS,Unsolicited SMS/Spam,Walk-in,No network coverage since yesterday evening.,71,male,pending ,,4
+RURA-ICT-00868,05-04-2023,Southern Province,Nyaruguru,M.T.N Rwanda,Mobile Data/Internet,Poor Network Quality,Walk-in,Complainant charged twice for the same data bundle.,60,male,Pending,,5
+RURA-ICT-00384,27-Jan-2024,Kigali City,Kicukiro,MTN,Fixed Internet,Slow Internet Speed,Social Media,,85,Female,Resolved,15,
+RURA-ICT-00419,10-Apr-2024,Kigali City,Gasabo,Liquid Telecom Rwanda,Fixed Voice,Unsolicited SMS/Spam,USSD,Customer reports repeated call drops in Gasabo.,67,Male,In Progress,11,1
+RURA-ICT-00562,29/01/2024,Western Province,Nyabihu,AIRTEL,Mobile Data/Internet,Billing Dispute,USSD,Customer care line not answering after multiple attempts.,28,,resolved,1,
+RURA-ICT-00747,2024-01-23,Kigali City,Gasabo,liquid telecom,Fixed Voice,Customer Care Unresponsive,USSD,Mobile money transfer deducted but recipient did not receive funds.,35,,Resolved,20,
+RURA-ICT-00746,2024-09-28,Western Province,Nyabihu,Liquid Telecom,Fixed Internet,Service Activation Delay,Email,Received suspicious SMS asking for mobile money PIN.,21,male,Pending,,5
+RURA-ICT-00832,25/10/2024,Southern Province,Muhanga,,Mobile Money,Customer Care Unresponsive,Email,Customer care line not answering after multiple attempts.,77,Male,resolved,12,
+RURA-ICT-00676,10-11-2024,Kigali City,Nyarugenge,REG-ICT,SMS,Data Bundle Deduction Issue,Call Center,Customer care line not answering after multiple attempts.,44,male,OPEN,,
+RURA-ICT-00857,28-Mar-2023,Southern Province,Nyamagabe,Liquid Telecom Rwanda,Fixed Internet,Service Activation Delay,Email,,18,male,Closed,28,0
+RURA-ICT-00707,06-21-2023,Northern Province,Musanze,MTN,Fixed Internet,Poor Network Quality,Walk-in,SIM card registered under wrong national ID.,66,male,pending ,,3
+RURA-ICT-00196,2023-05-01,Western Province,Nyabihu,Liquid Telecom Rwanda,Mobile Money,Billing Dispute,Web Portal,,70,male,closed,8,5
+RURA-ICT-00730,06-Feb-2023,Eastern Province,Nyagatare,M.T.N Rwanda,Fixed Internet,Billing Dispute,Email,Complainant charged twice for the same data bundle.,60,,Open,,2
+RURA-ICT-00223,2024-12-14,Eastern Province,Kirehe,Liquid Telecom Rwanda,Mobile Money,Slow Internet Speed,Call Center,,150,,OPEN,,5
+RURA-ICT-00849,2024-10-11,Eastern Province,Rwamagana,REG ICT,SMS,Unsolicited SMS/Spam,Email,SIM card registered under wrong national ID.,27,F,In Progress,25,1
+RURA-ICT-00211,02-02-2024,Northern Province,Musanze,liquid telecom,Fixed Voice,Network Outage,Walk-in,,38,Male,In Progress,10,3
+RURA-ICT-00543,2024-01-07,Eastern Province,Nyagatre,liquid telecom,Fixed Internet,Mobile Money Transaction Failure,Social Media,Customer reports repeated call drops in Nyagatre.,,M,OPEN,,2
+RURA-ICT-00137,05-01-2023,Kigali City,Kicukiro,Liquid Telecom Rwanda,Fixed Internet,Service Activation Delay,USSD,,44,Female,closed,15,
+RURA-ICT-00409,02-Mar-2024,Eastern Province,Rwamagana,MTN Rwanda,Mobile Data/Internet,Poor Network Quality,Web Portal,Received suspicious SMS asking for mobile money PIN.,42,Male,In Progress,16,2
+RURA-ICT-00682,08-24-2024,Northern Province,Gicumbi,Airtel,Fixed Voice,Mobile Money Fraud/Scam,Social Media,Delay of over a week in activating new fixed internet line.,42,Other,open,,4
+RURA-ICT-00334,08-Apr-2024,Southern Province,Kamonyi,,Mobile Data/Internet,Data Bundle Deduction Issue,USSD,SIM card registered under wrong national ID.,16,M,closed,19,
+RURA-ICT-00346,23-Jul-2023,Western Province,Ngororero,mtn rwanda,Fixed Internet,Slow Internet Speed,USSD,No network coverage since yesterday evening.,18,M,open,,
+RURA-ICT-00373,08-14-2024,Kigali City,Kicukiro,Broadband Systems Corporation,Mobile Voice,Customer Care Unresponsive,Web Portal,Customer reports repeated call drops in Kicukiro.,42,female,closed,9,
+RURA-ICT-00475,31/07/2023,Northern Province,Burera,Liquid Telecom,Fixed Voice,Unsolicited SMS/Spam,Social Media,Internet speed far below advertised package.,52,Female,OPEN,,4
+RURA-ICT-00774,2024-10-07,Southern Province,Ruhango,REG-ICT,Fixed Voice,Mobile Money Fraud/Scam,Email,,0,Female,OPEN,,4
+RURA-ICT-00455,10-Apr-2023,Southern Province,Huye,airtel rwanda,Mobile Money,Slow Internet Speed,Call Center,Internet speed far below advertised package.,61,,Resolved,21,
+RURA-ICT-00464,07-Mar-2023,Kigali City,Nyarugenge,Broadband Systems Corporation,Mobile Voice,Poor Network Quality,Email,Received suspicious SMS asking for mobile money PIN.,27,,In Progress,23,2
+RURA-ICT-00472,16/10/2023,Eastern Province,Kirehe,airtel rwanda,Mobile Data/Internet,Service Activation Delay,USSD,,150,Male,Resolved,12,5
+RURA-ICT-00428,17-Jan-2024,Northern Province,Burera,,Mobile Voice,Service Activation Delay,Email,No network coverage since yesterday evening.,36,male,Resolved,0,4
+RURA-ICT-00432,01-31-2024,Western Province,Rutsiro,mtn rwanda,Fixed Internet,Billing Dispute,Web Portal,SIM card registered under wrong national ID.,,female,resolved,14,1
+RURA-ICT-00416,28-Aug-2024,Northern Province,Gakenke,Airtel,Mobile Voice,Data Bundle Deduction Issue,USSD,Mobile money transfer deducted but recipient did not receive funds.,51,M,Pending,,2
+RURA-ICT-00214,12-11-2023,Kigali City,Nyarugenge,Liquid Telecom Rwanda,Mobile Money,Service Activation Delay,Social Media,Complainant charged twice for the same data bundle.,36,,In Progress,30,3
+RURA-ICT-00362,19/10/2023,Southern Province,Nyamagabe,MTN Rwanda,Mobile Voice,Data Bundle Deduction Issue,Walk-in,Billed for services not subscribed to.,62,M,OPEN,,
+RURA-ICT-00642,2023-12-08,Eastern Province,Kayonza,MTN,Mobile Voice,Mobile Money Fraud/Scam,Email,Delay of over a week in activating new fixed internet line.,26,M,open,,2
+RURA-ICT-00129,22-Dec-2024,Northern Province,Gicumbi,REG ICT,Mobile Data/Internet,Mobile Money Fraud/Scam,Email,,60,male,Closed,18,4
+RURA-ICT-00412,2024-04-09,Kigali City,Nyarugenge,Liquid Telecom,Mobile Data/Internet,Data Bundle Deduction Issue,Email,Delay of over a week in activating new fixed internet line.,22,Male,Resolved,0,1
+RURA-ICT-00233,29-Oct-2024,Eastern Province,Rwamagana,Airtel,Mobile Data/Internet,Service Activation Delay,Walk-in,Received suspicious SMS asking for mobile money PIN.,17,Other,Closed,20,
+RURA-ICT-00555,19-Aug-2023,Kigali City,Kicukiro,Airtel,Mobile Money,Network Outage,Social Media,SIM card registered under wrong national ID.,67,male,Resolved,0,1
+RURA-ICT-00728,24-Apr-2023,Western Province,Rutsiro,REG ICT,Fixed Internet,Slow Internet Speed,Call Center,,49,M,pending ,,
+RURA-ICT-00421,2024-07-26,Kigali City,Gasabo,broadband systems,Mobile Voice,SIM Registration Issue,Email,Billed for services not subscribed to.,42,Male,OPEN,,2
+RURA-ICT-00471,2024-08-12,Eastern Province,Bugesera,Airtel Rwanda,Fixed Internet,Mobile Money Transaction Failure,Web Portal,SIM card registered under wrong national ID.,47,Male,closed,21,3
+RURA-ICT-00044,21-Feb-2024,Western Province,Ngororero,liquid telecom,Mobile Voice,Customer Care Unresponsive,Walk-in,Mobile money transfer deducted but recipient did not receive funds.,46,Other,open,,4
+RURA-ICT-00779,19/06/2024,Southern Province,Nyamagabe,REG ICT,SMS,Service Activation Delay,Walk-in,Received suspicious SMS asking for mobile money PIN.,63,male,OPEN,,2
+RURA-ICT-00308,18-Feb-2023,Kigali City,Gasabo,airtel rwanda,Fixed Internet,Mobile Money Fraud/Scam,Email,Delay of over a week in activating new fixed internet line.,0,M,pending ,,
+RURA-ICT-00443,03-09-2023,Northern Province,Musanze District,,Mobile Voice,Unsolicited SMS/Spam,Call Center,Customer reports repeated call drops in Musanze District.,28,F,closed,6,2
+RURA-ICT-00022,28-Mar-2024,Eastern Province,Bugesera,Liquid Telecom Rwanda,Mobile Voice,SIM Registration Issue,Walk-in,No network coverage since yesterday evening.,30,F,closed,22,5
+RURA-ICT-00758,14/01/2024,Kigali City,Nyarugenge,M.T.N Rwanda,SMS,Mobile Money Transaction Failure,Call Center,Customer reports repeated call drops in Nyarugenge.,70,Other,Pending,,4
+RURA-ICT-00377,05-28-2023,Kigali City,Kicukiro,liquid telecom,Fixed Voice,Unsolicited SMS/Spam,Social Media,Mobile money transfer deducted but recipient did not receive funds.,66,Male,Closed,21,3
+RURA-ICT-00844,03-26-2024,Southern Province,huye,liquid telecom,SMS,Mobile Money Transaction Failure,Walk-in,Received unsolicited promotional SMS despite opt-out request.,47,Male,In Progress,15,5
+RURA-ICT-00264,2024-07-08,Kigali City,gasabo,liquid telecom,Mobile Money,Billing Dispute,Call Center,Mobile money transfer deducted but recipient did not receive funds.,73,F,closed,21,2
+RURA-ICT-00295,27-Apr-2024,Western Province,Rutsiro,MTN,Fixed Internet,Service Activation Delay,Call Center,No network coverage since yesterday evening.,150,Female,open,,5
+RURA-ICT-00179,31-Mar-2023,Eastern Province,Nyagatre,MTN,Mobile Money,Network Outage,Social Media,SIM card registered under wrong national ID.,31,Female,closed,23,3
+RURA-ICT-00749,29/04/2023,Western Province,Nyamasheke,airtel rwanda,Mobile Data/Internet,SIM Registration Issue,Walk-in,SIM card registered under wrong national ID.,68,female,Pending,,
+RURA-ICT-00653,2023-08-05,Kigali City,GASABO,MTN,Mobile Money,Billing Dispute,USSD,Complainant charged twice for the same data bundle.,55,Female,open,,1
+RURA-ICT-00294,2023-05-22,Southern Province,Ruhango,Liquid Telecom,SMS,SIM Registration Issue,Web Portal,,73,Male,resolved,16,3
+RURA-ICT-00148,09-06-2023,Eastern Province,Rwamagana,REG ICT,Fixed Internet,Customer Care Unresponsive,USSD,Internet speed far below advertised package.,26,Other,OPEN,,1
+RURA-ICT-00812,2024-09-15,Western Province,Rutsiro,Broadband Systems Corporation,Mobile Voice,SIM Registration Issue,Email,No network coverage since yesterday evening.,26,female,Open,,3
+RURA-ICT-00369,12-06-2023,Western Province,Ngororero,liquid telecom,SMS,Network Outage,Walk-in,Billed for services not subscribed to.,,Male,In Progress,0,4
+RURA-ICT-00550,04-21-2024,Western Province,Rubavu,Liquid Telecom,SMS,SIM Registration Issue,Walk-in,Customer reports repeated call drops in Rubavu.,75,,In Progress,25,3
+RURA-ICT-00884,27/07/2024,Northern Province,Gakenke,liquid telecom,Fixed Voice,Service Activation Delay,USSD,,25,Female,closed,22,4
+RURA-ICT-00864,11-06-2024,Eastern Province,Ngoma,REG-ICT,Mobile Data/Internet,Mobile Money Transaction Failure,Email,,75,male,OPEN,,2
+RURA-ICT-00043,05-21-2024,Eastern Province,Kayonza,broadband systems,SMS,Service Activation Delay,Social Media,Customer reports repeated call drops in Kayonza.,43,female,Resolved,10,
+RURA-ICT-00466,09-Oct-2023,Eastern Province,Bugesera,AIRTEL,Mobile Data/Internet,Billing Dispute,Call Center,Mobile money transfer deducted but recipient did not receive funds.,23,Other,OPEN,,1
+RURA-ICT-00652,19-Oct-2024,Northern Province,Gakenke,REG-ICT,Fixed Voice,Unsolicited SMS/Spam,Social Media,Billed for services not subscribed to.,37,M,Resolved,20,3
+RURA-ICT-00354,17-Nov-2023,Southern Province,Ruhango,AIRTEL,Fixed Internet,Network Outage,USSD,,84,M,resolved,14,1
+RURA-ICT-00873,22/08/2024,Northern Province,Gicumbi,MTN,Mobile Money,Billing Dispute,Social Media,,34,male,open,,1
+RURA-ICT-00628,08-26-2024,Kigali City,Nyarugenge,REG-ICT,Mobile Money,SIM Registration Issue,Web Portal,,51,Female,Resolved,2,2
+RURA-ICT-00503,26-Jul-2023,Western Province,Karongi,MTN,Fixed Voice,SIM Registration Issue,Email,Complainant charged twice for the same data bundle.,16,Female,OPEN,,4
+RURA-ICT-00700,2023-01-04,Northern Province,Burera,airtel rwanda,Fixed Voice,Mobile Money Fraud/Scam,Web Portal,Received suspicious SMS asking for mobile money PIN.,77,male,In Progress,22,
+RURA-ICT-00244,2024-12-29,Northern Province,Burera,Airtel Rwanda,SMS,Customer Care Unresponsive,Walk-in,SIM card registered under wrong national ID.,48,M,open,,1
+RURA-ICT-00767,2024-07-06,Northern Province,Gakenke,Airtel Rwanda,SMS,Slow Internet Speed,Email,Delay of over a week in activating new fixed internet line.,18,,OPEN,,
+RURA-ICT-00461,2024-03-20,Western Province,Karongi,AIRTEL,Mobile Money,Service Activation Delay,USSD,,62,Other,In Progress,4,3
+RURA-ICT-00816,03-Feb-2024,Western Province,Nyabihu,broadband systems,Fixed Internet,Service Activation Delay,USSD,Received unsolicited promotional SMS despite opt-out request.,17,female,Resolved,11,2
+RURA-ICT-00895,2023-06-22,Western Province,Nyamasheke,M.T.N Rwanda,Mobile Voice,Customer Care Unresponsive,Call Center,Complainant charged twice for the same data bundle.,83,M,Resolved,999,-1
+RURA-ICT-00703,05-13-2024,Kigali City,Kicukiro,Liquid Telecom,Fixed Internet,SIM Registration Issue,USSD,Billed for services not subscribed to.,17,female,closed,10,5
+RURA-ICT-00290,2024-07-06,Eastern Province,Nyagatare,,Mobile Voice,Poor Network Quality,Social Media,Delay of over a week in activating new fixed internet line.,71,,OPEN,,1
+RURA-ICT-00396,04-01-2024,Southern Province,Huye,MTN Rwanda,Fixed Internet,Poor Network Quality,USSD,Billed for services not subscribed to.,52,male,open,,
+RURA-ICT-00661,02-Feb-2024,Western Province,Rubavu,Liquid Telecom,Mobile Data/Internet,Slow Internet Speed,Social Media,Mobile money transfer deducted but recipient did not receive funds.,60,Other,open,,5
+RURA-ICT-00586,2023-06-20,Northern Province,Burera,Liquid Telecom,Fixed Internet,Service Activation Delay,USSD,Billed for services not subscribed to.,64,F,open,,
+RURA-ICT-00488,2024-03-23,Northern Province,Rulindo,,Fixed Voice,Customer Care Unresponsive,Call Center,Customer care line not answering after multiple attempts.,77,male,closed,4,3
+RURA-ICT-00665,07-23-2023,Eastern Province,Nyagatre,Airtel Rwanda,Mobile Voice,Data Bundle Deduction Issue,Email,No network coverage since yesterday evening.,77,Other,closed,25,
+RURA-ICT-00021,18/12/2023,Kigali City,Nyarugenge,REG-ICT,Mobile Money,Mobile Money Fraud/Scam,USSD,,49,Other,Closed,29,1
+RURA-ICT-00076,2024-03-07,Northern Province,Gakenke,Liquid Telecom Rwanda,Mobile Data/Internet,Mobile Money Fraud/Scam,Call Center,,76,Other,OPEN,,5
+RURA-ICT-00559,31/07/2023,Eastern Province,Kayonza,MTN,SMS,Data Bundle Deduction Issue,Social Media,Internet speed far below advertised package.,55,,open,,4
+RURA-ICT-00578,04/11/2023,Western Province,Ngororero,Broadband Systems Corporation,Fixed Internet,Network Outage,Social Media,Complainant charged twice for the same data bundle.,38,male,resolved,9,4
+RURA-ICT-00092,2023-06-04,Kigali City,Kicukiro,,Mobile Data/Internet,SIM Registration Issue,USSD,Received unsolicited promotional SMS despite opt-out request.,59,F,Pending,,2
+RURA-ICT-00644,26-Apr-2023,Kigali City,Gasabo,airtel rwanda,Mobile Data/Internet,Data Bundle Deduction Issue,Social Media,Complainant charged twice for the same data bundle.,51,Male,Pending,,
+RURA-ICT-00510,18/08/2024,Kigali City,Kicukiro,liquid telecom,Fixed Voice,Network Outage,Social Media,Mobile money transfer deducted but recipient did not receive funds.,52,Male,Resolved,16,1
+RURA-ICT-00230,05-11-2024,Southern Province,Nyaruguru,,Mobile Voice,Mobile Money Transaction Failure,Social Media,Internet speed far below advertised package.,81,Male,Closed,22,2
+RURA-ICT-00049,25/09/2024,Western Province,Nyamasheke,MTN,Mobile Voice,Customer Care Unresponsive,Social Media,Delay of over a week in activating new fixed internet line.,64,Other,In Progress,9,4
+RURA-ICT-00581,01-Mar-2023,Eastern Province,Ngoma,liquid telecom,Fixed Voice,Unsolicited SMS/Spam,Web Portal,,47,Female,Resolved,29,1
+RURA-ICT-00888,2023-11-18,Northern Province,Gicumbi,Airtel,Mobile Voice,Customer Care Unresponsive,Web Portal,Received unsolicited promotional SMS despite opt-out request.,45,female,Pending,,5
+RURA-ICT-00397,2023-05-05,Kigali City,Nyarugenge,MTN Rwanda,SMS,Service Activation Delay,Walk-in,Billed for services not subscribed to.,0,,In Progress,28,2
+RURA-ICT-00060,22-Nov-2023,Eastern Province,Ngoma,Airtel,SMS,Data Bundle Deduction Issue,Walk-in,Customer reports repeated call drops in Ngoma.,64,,resolved,25,2
+RURA-ICT-00577,2024-05-07,Northern Province,Gakenke,airtel rwanda,Mobile Money,Slow Internet Speed,Social Media,Received suspicious SMS asking for mobile money PIN.,62,,Closed,15,5
+RURA-ICT-00004,2023-03-13,Kigali City,Nyarugenge,liquid telecom,SMS,SIM Registration Issue,USSD,,53,F,Closed,27,
+RURA-ICT-00391,04-Jun-2023,Southern Province,Gisagara,Liquid Telecom Rwanda,Fixed Voice,Poor Network Quality,USSD,Delay of over a week in activating new fixed internet line.,38,male,OPEN,,2
+RURA-ICT-00007,21-Aug-2024,Northern Province,Gicumbi,Airtel,Fixed Voice,Customer Care Unresponsive,USSD,,67,female,closed,4,1
+RURA-ICT-00240,08/10/2024,Eastern Province,Nyagatare,Broadband Systems Corporation,Mobile Money,Billing Dispute,Call Center,SIM card registered under wrong national ID.,23,M,Pending,,2
+RURA-ICT-00701,30-Apr-2024,Southern Province,Nyanza,Airtel,Mobile Money,Unsolicited SMS/Spam,Walk-in,Billed for services not subscribed to.,38,male,Open,,2
+RURA-ICT-00107,14/12/2023,Southern Province,Gisagara,mtn rwanda,Fixed Internet,Data Bundle Deduction Issue,Web Portal,Internet speed far below advertised package.,79,female,Pending,,5
+RURA-ICT-00548,12-30-2024,Western Province,Karongi,REG ICT,Fixed Internet,Customer Care Unresponsive,Social Media,SIM card registered under wrong national ID.,77,Other,OPEN,,5
+RURA-ICT-00040,2023-07-23,Northern Province,Gicumbi,M.T.N Rwanda,Mobile Voice,Mobile Money Fraud/Scam,USSD,Internet speed far below advertised package.,47,F,resolved,9,5
+RURA-ICT-00894,16/02/2024,Southern Province,Nyamagabe,AIRTEL,Mobile Money,Unsolicited SMS/Spam,Call Center,Received suspicious SMS asking for mobile money PIN.,26,female,OPEN,,1
+RURA-ICT-00330,2024-04-24,Southern Province,Kamonyi,,Mobile Voice,Network Outage,Walk-in,Complainant charged twice for the same data bundle.,69,female,Pending,,1
+RURA-ICT-00742,2023-03-01,Kigali City,Kicukiro,mtn rwanda,Fixed Internet,Service Activation Delay,USSD,Internet speed far below advertised package.,56,F,Closed,8,3
+RURA-ICT-00174,12-23-2023,Eastern Province,Nyagatare,liquid telecom,Fixed Internet,Slow Internet Speed,Social Media,Complainant charged twice for the same data bundle.,38,male,In Progress,18,
+RURA-ICT-00738,2023-11-09,Northern Province,Burera,Broadband Systems Corporation,Fixed Voice,Data Bundle Deduction Issue,USSD,Billed for services not subscribed to.,60,M,Open,,3
+RURA-ICT-00634,12-22-2023,Northern Province,Gicumbi,MTN,Mobile Data/Internet,Customer Care Unresponsive,Call Center,Billed for services not subscribed to.,49,Male,Open,,5
+RURA-ICT-00018,08-20-2024,Western Province,Rusizi,,Mobile Voice,Slow Internet Speed,Call Center,Billed for services not subscribed to.,42,female,resolved,12,
+RURA-ICT-00548,12-30-2024,Western Province,Karongi,REG ICT,Fixed Internet,Customer Care Unresponsive,Social Media,SIM card registered under wrong national ID.,77,Other,OPEN,,5
+RURA-ICT-00315,28-Aug-2024,Eastern Province,Kirehe,REG ICT,SMS,Unsolicited SMS/Spam,Walk-in,No network coverage since yesterday evening.,71,male,pending ,,4
+RURA-ICT-00420,19/09/2024,Kigali City,Kicukiro,liquid telecom,Mobile Voice,Mobile Money Fraud/Scam,Social Media,,26,female,closed,1,3
+RURA-ICT-00067,06/11/2024,Northern Province,Gakenke,Liquid Telecom Rwanda,Fixed Voice,Mobile Money Transaction Failure,USSD,Billed for services not subscribed to.,21,male,closed,1,2
+RURA-ICT-00702,2023-04-23,Kigali City,Nyarugenge,Liquid Telecom,SMS,Network Outage,Social Media,Customer care line not answering after multiple attempts.,53,Female,Closed,5,1
+RURA-ICT-00541,19/12/2023,Western Province,Rutsiro,Airtel Rwanda,Mobile Data/Internet,Customer Care Unresponsive,USSD,Internet speed far below advertised package.,41,F,Open,,4
+RURA-ICT-00059,16-Aug-2024,Northern Province,musanze,liquid telecom,Mobile Money,Network Outage,Email,Delay of over a week in activating new fixed internet line.,73,Other,closed,17,4
+RURA-ICT-00879,02-10-2023,Western Province,Rubavu,liquid telecom,Fixed Voice,Slow Internet Speed,Social Media,,72,Other,resolved,16,
+RURA-ICT-00561,04-04-2023,Northern Province,Gakenke,liquid telecom,Fixed Internet,Unsolicited SMS/Spam,Social Media,Customer reports repeated call drops in Gakenke.,74,female,In Progress,22,4
+RURA-ICT-00891,06-Aug-2024,Northern Province,Rulindo,liquid telecom,Fixed Voice,Service Activation Delay,Email,Mobile money transfer deducted but recipient did not receive funds.,85,female,Resolved,19,
+RURA-ICT-00165,31/08/2024,Eastern Province,Ngoma,REG ICT,Mobile Money,Unsolicited SMS/Spam,Email,Billed for services not subscribed to.,41,Other,resolved,30,3
+RURA-ICT-00571,15/04/2023,Western Province,Nyamasheke,MTN Rwanda,Mobile Data/Internet,Data Bundle Deduction Issue,Email,Customer care line not answering after multiple attempts.,28,female,In Progress,22,2
+RURA-ICT-00295,27-Apr-2024,Western Province,Rutsiro,MTN,Fixed Internet,Service Activation Delay,Call Center,No network coverage since yesterday evening.,150,Female,open,,5
+RURA-ICT-00542,2023-06-16,Eastern Province,Nyagatare,,Mobile Money,Slow Internet Speed,Email,SIM card registered under wrong national ID.,21,Other,resolved,0,2
+RURA-ICT-00617,05-01-2023,Eastern Province,Kirehe,Broadband Systems Corporation,Mobile Money,Poor Network Quality,Email,Received unsolicited promotional SMS despite opt-out request.,53,male,Closed,23,4
+RURA-ICT-00252,2024-05-14,Eastern Province,Bugesera,liquid telecom,Mobile Voice,Service Activation Delay,Web Portal,Customer care line not answering after multiple attempts.,72,M,OPEN,,
+RURA-ICT-00072,24/08/2024,Western Province,Rusizi,BSC,Mobile Money,Service Activation Delay,Web Portal,Internet speed far below advertised package.,28,Other,pending ,,3
+RURA-ICT-00452,02-Feb-2023,Eastern Province,Kirehe,REG ICT,SMS,SIM Registration Issue,USSD,Customer reports repeated call drops in Kirehe.,31,,pending ,,4
+RURA-ICT-00026,2023-01-29,Kigali City,Kicukiro,liquid telecom,SMS,Data Bundle Deduction Issue,Web Portal,SIM card registered under wrong national ID.,49,Male,pending ,,3
+RURA-ICT-00450,16-May-2024,Eastern Province,Kirehe,REG ICT,Mobile Data/Internet,Unsolicited SMS/Spam,Call Center,Received suspicious SMS asking for mobile money PIN.,33,M,open,,
+RURA-ICT-00739,2023-02-28,Southern Province,Kamonyi,mtn rwanda,Fixed Voice,Slow Internet Speed,Social Media,,52,Other,resolved,23,5
+RURA-ICT-00674,14-Aug-2024,Eastern Province,Kayonza,REG ICT,Mobile Data/Internet,Slow Internet Speed,Web Portal,Customer reports repeated call drops in Kayonza.,65,Male,resolved,10,4
+RURA-ICT-00344,2023-05-25,Northern Province,Burera,,Mobile Money,Customer Care Unresponsive,Social Media,,83,M,In Progress,1,
+RURA-ICT-00200,09/09/2023,Northern Province,Rulindo,liquid telecom,Fixed Internet,Mobile Money Transaction Failure,Web Portal,,,,pending ,,
+RURA-ICT-00643,2023-12-23,Eastern Province,Nyagatare,Broadband Systems Corporation,Fixed Voice,Service Activation Delay,Email,Received suspicious SMS asking for mobile money PIN.,79,female,In Progress,25,1
+RURA-ICT-00790,04-10-2023,Northern Province,Burera,MTN RWANDA,Mobile Voice,Network Outage,Social Media,SIM card registered under wrong national ID.,40,M,Open,,3
+RURA-ICT-00231,2024-04-12,Western Province,Rutsiro,MTN,Mobile Data/Internet,Mobile Money Transaction Failure,Call Center,Customer reports repeated call drops in Rutsiro.,41,male,Closed,14,1
+RURA-ICT-00066,05-Nov-2024,Northern Province,Rulindo,REG ICT,SMS,Mobile Money Fraud/Scam,Web Portal,Customer reports repeated call drops in Rulindo.,22,Other,closed,28,
+RURA-ICT-00518,24/02/2023,Western Province,Ngororero,M.T.N Rwanda,Mobile Voice,Mobile Money Transaction Failure,USSD,Delay of over a week in activating new fixed internet line.,80,M,pending ,,
+RURA-ICT-00299,2024-02-21,Northern Province,Gakenke,AIRTEL,Fixed Internet,Slow Internet Speed,Call Center,No network coverage since yesterday evening.,80,male,closed,3,3
+RURA-ICT-00875,22/08/2024,Southern Province,Gisagara,MTN RWANDA,Mobile Money,Poor Network Quality,Web Portal,Internet speed far below advertised package.,78,male,Pending,,
+RURA-ICT-00390,2023-05-10,Kigali City,Nyarugenge,liquid telecom,SMS,Network Outage,Email,Complainant charged twice for the same data bundle.,51,male,Pending,,
+RURA-ICT-00401,02-04-2024,Eastern Province,Rwamagana,Broadband Systems Corporation,Fixed Voice,Service Activation Delay,Call Center,Billed for services not subscribed to.,58,,Open,,5
+RURA-ICT-00058,07-Sep-2023,Eastern Province,Gatsibo,liquid telecom,Fixed Voice,Mobile Money Fraud/Scam,Social Media,Customer care line not answering after multiple attempts.,65,Female,Pending,,5
+RURA-ICT-00660,28-Feb-2024,Northern Province,Rulindo,liquid telecom,SMS,SIM Registration Issue,Email,Billed for services not subscribed to.,21,M,open,,2
+RURA-ICT-00766,02-Oct-2023,Southern Province,Nyamagabe,BSC,Fixed Internet,Data Bundle Deduction Issue,Social Media,Customer reports repeated call drops in Nyamagabe.,59,M,closed,13,
+RURA-ICT-00474,22-Jun-2024,Western Province,Nyamasheke,Airtel Rwanda,Mobile Money,Billing Dispute,USSD,Customer reports repeated call drops in Nyamasheke.,74,Other,open,,
+RURA-ICT-00359,03/10/2024,Northern Province,Burera,Airtel Rwanda,Fixed Internet,Mobile Money Fraud/Scam,Email,Received suspicious SMS asking for mobile money PIN.,32,Female,Pending,,
+RURA-ICT-00180,03-02-2023,Western Province,Ngororero,Broadband Systems Corporation,SMS,Billing Dispute,Walk-in,,84,Male,Closed,22,
+RURA-ICT-00257,2024-04-08,Eastern Province,Ngoma,,SMS,Unsolicited SMS/Spam,Web Portal,,0,M,Resolved,26,3
+RURA-ICT-00350,22/11/2023,Western Province,Rusizi,Liquid Telecom Rwanda,SMS,Customer Care Unresponsive,Web Portal,No network coverage since yesterday evening.,56,,open,,3
+RURA-ICT-00157,2023-04-08,Kigali City,Nyarugenge,MTN,Mobile Voice,Unsolicited SMS/Spam,Social Media,Delay of over a week in activating new fixed internet line.,76,male,Resolved,-2,3
+RURA-ICT-00015,31/08/2023,Northern Province,Musanze,REG-ICT,Mobile Voice,Service Activation Delay,USSD,Complainant charged twice for the same data bundle.,77,Female,Open,,1
+RURA-ICT-00583,29-Jun-2024,Kigali City,Nyarugenge,AIRTEL,Mobile Data/Internet,Data Bundle Deduction Issue,Email,Received unsolicited promotional SMS despite opt-out request.,68,F,closed,18,3
+RURA-ICT-00045,11-10-2024,Eastern Province,Bugesera,MTN Rwanda,Mobile Money,Mobile Money Transaction Failure,Social Media,Received suspicious SMS asking for mobile money PIN.,83,female,Closed,23,3
+RURA-ICT-00326,10-Feb-2023,Eastern Province,Gatsibo,Airtel Rwanda,Fixed Voice,Data Bundle Deduction Issue,Email,Received suspicious SMS asking for mobile money PIN.,53,Other,OPEN,,
+RURA-ICT-00743,20/02/2023,Southern Province,Ruhango,Airtel,Fixed Voice,Billing Dispute,Walk-in,Billed for services not subscribed to.,20,Male,In Progress,27,3
+RURA-ICT-00216,2023-12-06,Kigali City,Gasabo,REG-ICT,Fixed Voice,Slow Internet Speed,Call Center,No network coverage since yesterday evening.,56,Male,Pending,,1
+RURA-ICT-00787,11/01/2023,Eastern Province,Kayonza,,Mobile Data/Internet,Data Bundle Deduction Issue,Email,,83,Female,OPEN,,
+RURA-ICT-00194,16-Dec-2024,Northern Province,Burera,REG ICT,Fixed Internet,Slow Internet Speed,Web Portal,Received suspicious SMS asking for mobile money PIN.,46,M,open,,
+RURA-ICT-00786,03-21-2024,Northern Province,Rulindo,REG ICT,Fixed Internet,Mobile Money Fraud/Scam,Web Portal,Received unsolicited promotional SMS despite opt-out request.,62,Other,open,,3
+RURA-ICT-00516,13-Oct-2024,Eastern Province,Ngoma,BSC,Fixed Voice,Slow Internet Speed,Walk-in,Received unsolicited promotional SMS despite opt-out request.,73,Male,OPEN,,3
+RURA-ICT-00679,2024-09-13,Eastern Province,Bugesera,Airtel,Mobile Money,Network Outage,Walk-in,Billed for services not subscribed to.,59,female,In Progress,19,1
+RURA-ICT-00043,05-21-2024,Eastern Province,Kayonza,broadband systems,SMS,Service Activation Delay,Social Media,Customer reports repeated call drops in Kayonza.,43,female,Resolved,10,
+RURA-ICT-00788,02-04-2023,Southern Province,Nyamagabe,mtn rwanda,Mobile Money,Customer Care Unresponsive,Call Center,Received suspicious SMS asking for mobile money PIN.,66,M,In Progress,22,
+RURA-ICT-00612,20-Dec-2023,Western Province,Nyamasheke,REG-ICT,Mobile Voice,Billing Dispute,Email,No network coverage since yesterday evening.,32,male,resolved,-2,2
+RURA-ICT-00453,18-Jun-2023,Eastern Province,Kirehe,MTN Rwanda,Mobile Data/Internet,Customer Care Unresponsive,Web Portal,,55,,closed,3,4
+RURA-ICT-00147,04-Jul-2024,Western Province,Nyamasheke,BSC,Mobile Data/Internet,Mobile Money Fraud/Scam,Social Media,,44,male,OPEN,,2
+RURA-ICT-00757,19/04/2023,Southern Province,Ruhango,Broadband Systems Corporation,Mobile Data/Internet,Mobile Money Fraud/Scam,Email,,34,F,In Progress,26,2
+RURA-ICT-00449,10-Mar-2024,Northern Province,Musanze,airtel rwanda,Mobile Data/Internet,Slow Internet Speed,Social Media,Mobile money transfer deducted but recipient did not receive funds.,50,,open,,5
+RURA-ICT-00380,2024-11-09,Eastern Province,Bugesera,broadband systems,Mobile Money,Customer Care Unresponsive,Web Portal,No network coverage since yesterday evening.,78,F,Closed,14,0
+RURA-ICT-00631,12-Feb-2024,Southern Province,Muhanga,Liquid Telecom Rwanda,SMS,Network Outage,Web Portal,,81,F,Closed,24,5
+RURA-ICT-00447,30/03/2024,Kigali City,Gasabo,BSC,Fixed Internet,Slow Internet Speed,Web Portal,Billed for services not subscribed to.,53,,closed,2,4
+RURA-ICT-00248,2024-06-07,Kigali City,Nyarugenge,MTN Rwanda,SMS,Service Activation Delay,Social Media,Complainant charged twice for the same data bundle.,28,male,OPEN,,4
+RURA-ICT-00070,10-15-2024,Southern Province,Nyanza,BSC,Fixed Voice,Service Activation Delay,Email,Internet speed far below advertised package.,45,Other,In Progress,999,2
+RURA-ICT-00826,25-Jan-2023,Eastern Province,Ngoma,REG-ICT,Fixed Voice,Slow Internet Speed,Web Portal,,23,male,pending ,,1
+RURA-ICT-00711,23-Jun-2024,Western Province,Ngororero,broadband systems,Mobile Data/Internet,Data Bundle Deduction Issue,Social Media,No network coverage since yesterday evening.,80,female,open,,4
+RURA-ICT-00781,2023-06-10,Kigali City,Nyarugenge,BSC,Mobile Voice,Network Outage,USSD,Delay of over a week in activating new fixed internet line.,44,female,Pending,,2
+RURA-ICT-00086,16/03/2024,Kigali City,gasabo,airtel rwanda,Mobile Money,SIM Registration Issue,Call Center,Customer care line not answering after multiple attempts.,84,Female,Open,,3
+RURA-ICT-00189,2023-03-30,Eastern Province,Ngoma,Airtel,Fixed Internet,Slow Internet Speed,Web Portal,Mobile money transfer deducted but recipient did not receive funds.,31,,Pending,,4
+RURA-ICT-00398,04-09-2024,Kigali City,Nyarugenge,airtel rwanda,Mobile Money,Unsolicited SMS/Spam,Web Portal,Billed for services not subscribed to.,57,male,open,,
+RURA-ICT-00854,27-Jan-2023,Southern Province,Kamonyi,airtel rwanda,Mobile Voice,Billing Dispute,Social Media,Internet speed far below advertised package.,42,,open,,
+RURA-ICT-00039,12-Aug-2023,Kigali City,Gasabo,REG-ICT,Mobile Data/Internet,Billing Dispute,Social Media,Delay of over a week in activating new fixed internet line.,63,Male,open,,1
+RURA-ICT-00235,10-17-2024,Western Province,Nyamasheke,liquid telecom,Mobile Voice,Unsolicited SMS/Spam,Call Center,Received suspicious SMS asking for mobile money PIN.,49,male,Resolved,16,1
+RURA-ICT-00115,13-May-2023,Eastern Province,Gatsibo,REG ICT,Mobile Data/Internet,Customer Care Unresponsive,Web Portal,No network coverage since yesterday evening.,23,F,In Progress,9,
+RURA-ICT-00191,16-Feb-2023,Northern Province,Gicumbi,MTN,Fixed Internet,Mobile Money Transaction Failure,USSD,Customer reports repeated call drops in Gicumbi.,30,male,In Progress,-2,3
+RURA-ICT-00491,09-29-2023,Eastern Province,Gatsibo,Liquid Telecom,SMS,Unsolicited SMS/Spam,Web Portal,Delay of over a week in activating new fixed internet line.,39,Female,Pending,,
+RURA-ICT-00481,11-Feb-2023,Kigali City,Kicukiro,Liquid Telecom Rwanda,Fixed Voice,Unsolicited SMS/Spam,Social Media,Customer care line not answering after multiple attempts.,78,Other,open,,2
+RURA-ICT-00037,2023-01-28,Eastern Province,Kayonza,,Mobile Voice,Data Bundle Deduction Issue,USSD,Billed for services not subscribed to.,33,Other,In Progress,8,2
+RURA-ICT-00531,08/03/2023,Northern Province,Gakenke,,Mobile Data/Internet,Poor Network Quality,USSD,,45,male,OPEN,,
+RURA-ICT-00131,2023-09-06,Western Province,Ngororero,Liquid Telecom Rwanda,Mobile Voice,Slow Internet Speed,Web Portal,Mobile money transfer deducted but recipient did not receive funds.,83,Female,In Progress,1,
+RURA-ICT-00206,02-15-2024,Northern Province,Musanze,Airtel Rwanda,Mobile Voice,Network Outage,Walk-in,Mobile money transfer deducted but recipient did not receive funds.,26,male,OPEN,,1
+RURA-ICT-00510,18/08/2024,Kigali City,Kicukiro,liquid telecom,Fixed Voice,Network Outage,Social Media,Mobile money transfer deducted but recipient did not receive funds.,52,Male,Resolved,16,1
+RURA-ICT-00867,2024-11-10,Western Province,Nyamasheke,Liquid Telecom Rwanda,Mobile Money,SIM Registration Issue,Social Media,Customer care line not answering after multiple attempts.,59,male,pending ,,
+RURA-ICT-00569,27/11/2023,Northern Province,Musanze,Airtel,Mobile Voice,Data Bundle Deduction Issue,USSD,SIM card registered under wrong national ID.,85,,open,,1
+RURA-ICT-00089,22/10/2024,Western Province,Ngororero,M.T.N Rwanda,SMS,Mobile Money Transaction Failure,Email,,34,male,Resolved,19,
+RURA-ICT-00207,22-Jun-2023,Kigali City,Gasabo ,Airtel Rwanda,Mobile Money,Poor Network Quality,Call Center,Customer reports repeated call drops in Gasabo .,66,Other,Pending,,
+RURA-ICT-00716,07-13-2024,Eastern Province,Kirehe,MTN Rwanda,Mobile Money,Data Bundle Deduction Issue,Social Media,Mobile money transfer deducted but recipient did not receive funds.,72,F,OPEN,,1
+RURA-ICT-00057,19-Jul-2024,Eastern Province,Rwamagana,M.T.N Rwanda,Mobile Data/Internet,Billing Dispute,Email,Customer reports repeated call drops in Rwamagana.,-5,Other,pending ,,2
+RURA-ICT-00843,24-May-2023,Western Province,Karongi,Broadband Systems Corporation,Fixed Internet,Network Outage,Social Media,Billed for services not subscribed to.,18,Female,Resolved,22,
+RURA-ICT-00405,25/11/2024,Kigali City,GASABO,MTN RWANDA,Mobile Voice,Mobile Money Transaction Failure,Web Portal,Customer care line not answering after multiple attempts.,45,F,pending ,,
+RURA-ICT-00123,01-18-2024,Western Province,Nyamasheke,,SMS,Poor Network Quality,Walk-in,Internet speed far below advertised package.,62,Male,open,,
+RURA-ICT-00780,2024-04-26,Southern Province,Muhanga,AIRTEL,Mobile Voice,SIM Registration Issue,Social Media,No network coverage since yesterday evening.,16,male,OPEN,,2
+RURA-ICT-00112,31-Dec-2024,Western Province,Nyamasheke,Broadband Systems Corporation,Mobile Voice,Billing Dispute,Call Center,No network coverage since yesterday evening.,56,female,Pending,,5
+RURA-ICT-00268,14/08/2023,Southern Province,Ruhango,,Mobile Money,Poor Network Quality,Web Portal,Received unsolicited promotional SMS despite opt-out request.,80,Male,Resolved,17,3
+RURA-ICT-00584,2023-01-02,Northern Province,Gicumbi,AIRTEL,Fixed Voice,Mobile Money Fraud/Scam,Call Center,Customer care line not answering after multiple attempts.,,,OPEN,,3
+RURA-ICT-00877,2023-01-14,Southern Province,Gisagara,REG ICT,Fixed Internet,Service Activation Delay,Email,Complainant charged twice for the same data bundle.,78,Female,Resolved,7,3
